@@ -48,7 +48,7 @@ export const schema = z.object({
 
 const columns: ColumnDef<z.infer<typeof schema>>[] = [
   {
-    accessorKey: "header",
+    accessorKey: "sector",
     header: "섹터",
     cell: ({ row }) => row.original.sector,
   },
@@ -68,7 +68,8 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
     cell: ({ row }) => row.original.psr.toLocaleString(),
   },
   {
-    header: "POR",
+    accessorKey: "por",
+    header: "영업이익",
     cell: ({ row }) => row.original.por.toLocaleString(),
   },
   {
@@ -123,9 +124,6 @@ export function DataTable({
   return (
     <Tabs defaultValue="value" className="w-full flex-col justify-start gap-6">
       <div className="flex items-center justify-between px-4 lg:px-6">
-        <Label htmlFor="view-selector" className="sr-only">
-          View
-        </Label>
         <Select defaultValue="value">
           <SelectTrigger
             className="flex w-fit @4xl/main:hidden"
@@ -155,18 +153,16 @@ export function DataTable({
             <TableHeader className="bg-muted sticky top-0 z-10">
               {table.getHeaderGroups().map((headerGroup) => (
                 <TableRow key={headerGroup.id}>
-                  {headerGroup.headers.map((header) => {
-                    return (
-                      <TableHead key={header.id} colSpan={header.colSpan}>
-                        {header.isPlaceholder
-                          ? null
-                          : flexRender(
-                              header.column.columnDef.header,
-                              header.getContext()
-                            )}
-                      </TableHead>
-                    );
-                  })}
+                  {headerGroup.headers.map((header) => (
+                    <TableHead key={header.id} colSpan={header.colSpan}>
+                      {header.isPlaceholder
+                        ? null
+                        : flexRender(
+                            header.column.columnDef.header,
+                            header.getContext()
+                          )}
+                    </TableHead>
+                  ))}
                 </TableRow>
               ))}
             </TableHeader>

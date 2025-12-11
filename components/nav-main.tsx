@@ -9,33 +9,24 @@ import {
   SidebarMenuItem,
 } from "@/components/ui/sidebar";
 import { NavItem } from "./app-sidebar";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 
 interface Props {
   items: NavItem[];
 }
 
 export function NavMain({ items }: Props) {
+  const router = useRouter();
   const pathname = usePathname();
 
   return (
     <SidebarGroup>
       <SidebarGroupContent className="flex flex-col gap-2">
         <SidebarMenu>
-          <SidebarMenuItem className="flex items-center gap-2">
-            <SidebarMenuButton
-              tooltip="Quick Create"
-              className="bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground active:bg-primary/90 active:text-primary-foreground min-w-8 duration-200 ease-linear"
-            >
-              <IconCirclePlusFilled />
-              <span>Create</span>
-            </SidebarMenuButton>
-          </SidebarMenuItem>
-        </SidebarMenu>
-        <SidebarMenu>
           {items.map((item) => (
             <SidebarMenuItem key={item.title}>
               <SidebarMenuButton
+                onClick={() => router.push(item.url)}
                 tooltip={item.title}
                 isActive={pathname === item.url}
               >
