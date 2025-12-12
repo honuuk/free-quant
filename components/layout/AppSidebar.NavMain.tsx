@@ -1,23 +1,22 @@
-"use client";
+'use client'
 
-import { IconCirclePlusFilled } from "@tabler/icons-react";
 import {
   SidebarGroup,
   SidebarGroupContent,
   SidebarMenu,
   SidebarMenuButton,
   SidebarMenuItem,
-} from "@/components/ui/sidebar";
-import { NavItem } from "./app-sidebar";
-import { usePathname, useRouter } from "next/navigation";
+} from '@/components/ui/sidebar'
+import { NavItem } from './AppSidebar'
+import { usePathname, useRouter } from 'next/navigation'
 
 interface Props {
-  items: NavItem[];
+  items: NavItem[]
 }
 
 export function NavMain({ items }: Props) {
-  const router = useRouter();
-  const pathname = usePathname();
+  const router = useRouter()
+  const pathname = usePathname()
 
   return (
     <SidebarGroup>
@@ -38,5 +37,5 @@ export function NavMain({ items }: Props) {
         </SidebarMenu>
       </SidebarGroupContent>
     </SidebarGroup>
-  );
+  )
 }

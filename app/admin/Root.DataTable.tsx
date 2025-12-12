@@ -3,20 +3,17 @@
 import * as React from 'react'
 import {
   ColumnDef,
-  ColumnFiltersState,
   flexRender,
   getCoreRowModel,
-  getFacetedRowModel,
-  getFacetedUniqueValues,
-  getFilteredRowModel,
-  getPaginationRowModel,
   getSortedRowModel,
   SortingState,
   useReactTable,
-  VisibilityState,
 } from '@tanstack/react-table'
-import { z } from 'zod'
+import { IconCirclePlusFilled } from '@tabler/icons-react'
 
+import { selectIncomeStatements, setIncomeStatements } from '@/store/income-statement-slice'
+import { useAppDisPatch, useAppSelector } from '@/hooks/redux'
+import { Button } from '@/components/ui/button'
 import {
   Table,
   TableBody,
@@ -25,21 +22,11 @@ import {
   TableHeader,
   TableRow,
 } from '@/components/ui/table'
-import { Button } from '@/components/ui/button'
-import { IconCirclePlusFilled } from '@tabler/icons-react'
-import QuarterPicker from './quarter-picker'
 
-export const schema = z.object({
-  id: z.number(),
-  sector: z.string(),
-  company: z.string(),
-  net_income: z.number(),
-  total_sales: z.number(),
-  operation_profit: z.number(),
-  gross_profit: z.number(),
-})
+import { IncomeStatement } from '../types'
+import QuarterPicker from './Root.QuarterPicker'
 
-const columns: ColumnDef<z.infer<typeof schema>>[] = [
+const columns: ColumnDef<IncomeStatement>[] = [
   {
     accessorKey: 'sector',
     header: '섹터',
@@ -72,40 +59,31 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
   },
 ]
 
-export function DataTable({ data: initialData }: { data: z.infer<typeof schema>[] }) {
-  const [data, setData] = React.useState(() => initialData)
-  const [rowSelection, setRowSelection] = React.useState({})
-  const [columnVisibility, setColumnVisibility] = React.useState<VisibilityState>({})
-  const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>([])
+interface Props {
+  data: IncomeStatement[]
+}
+
+export function DataTable({ data: initialData }: Props) {
+  const incomeStatements = useAppSelector(selectIncomeStatements)
+  const dispatch = useAppDisPatch()
+
   const [sorting, setSorting] = React.useState<SortingState>([])
 
   const table = useReactTable({
-    data,
+    data: incomeStatements,
     columns,
     state: {
       sorting,
-      columnVisibility,
-      rowSelection,
-      columnFilters,
-    },
-    initialState: {
-      pagination: {
-        pageSize: data.length,
-      },
     },
     getRowId: (row) => row.id.toString(),
-    enableRowSelection: true,
-    onRowSelectionChange: setRowSelection,
     onSortingChange: setSorting,
-    onColumnFiltersChange: setColumnFilters,
-    onColumnVisibilityChange: setColumnVisibility,
     getCoreRowModel: getCoreRowModel(),
-    getFilteredRowModel: getFilteredRowModel(),
-    getPaginationRowModel: getPaginationRowModel(),
     getSortedRowModel: getSortedRowModel(),
-    getFacetedRowModel: getFacetedRowModel(),
-    getFacetedUniqueValues: getFacetedUniqueValues(),
   })
+
+  React.useEffect(() => {
+    dispatch(setIncomeStatements(initialData))
+  }, [dispatch, initialData])
 
   return (
     <div className="w-full flex flex-col justify-start gap-6">

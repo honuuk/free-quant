@@ -20,9 +20,10 @@ import {
   SidebarMenuButton,
   SidebarMenuItem,
 } from '@/components/ui/sidebar'
-import { NavMain } from '@/components/nav-main'
-import { NavSecondary } from '@/components/nav-secondary'
-import { NavUser } from '@/components/nav-user'
+
+import { NavMain } from './AppSidebar.NavMain'
+import { NavSecondary } from './AppSidebar.NavSecondary'
+import { NavUser } from './AppSidebar.NavUser'
 
 export interface NavItem {
   title: string

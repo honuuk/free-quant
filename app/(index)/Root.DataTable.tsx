@@ -1,6 +1,6 @@
-"use client";
+'use client'
 
-import * as React from "react";
+import * as React from 'react'
 import {
   ColumnDef,
   ColumnFiltersState,
@@ -14,17 +14,17 @@ import {
   SortingState,
   useReactTable,
   VisibilityState,
-} from "@tanstack/react-table";
-import { z } from "zod";
+} from '@tanstack/react-table'
+import { z } from 'zod'
 
-import { Label } from "@/components/ui/label";
+import { Label } from '@/components/ui/label'
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
+} from '@/components/ui/select'
 import {
   Table,
   TableBody,
@@ -32,71 +32,54 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "@/components/ui/table";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+} from '@/components/ui/table'
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+import { Metric } from '../types'
 
-export const schema = z.object({
-  id: z.number(),
-  sector: z.string(),
-  name: z.string(),
-  per: z.number(),
-  psr: z.number(),
-  por: z.number(),
-  pgpr: z.number(),
-  price: z.number(),
-});
-
-const columns: ColumnDef<z.infer<typeof schema>>[] = [
+const columns: ColumnDef<Metric>[] = [
   {
-    accessorKey: "sector",
-    header: "섹터",
+    accessorKey: 'sector',
+    header: '섹터',
     cell: ({ row }) => row.original.sector,
   },
   {
-    accessorKey: "name",
-    header: "종목명",
+    accessorKey: 'name',
+    header: '종목명',
     cell: ({ row }) => row.original.name,
   },
   {
-    accessorKey: "per",
-    header: "PER",
+    accessorKey: 'per',
+    header: 'PER',
     cell: ({ row }) => row.original.per.toLocaleString(),
   },
   {
-    accessorKey: "psr",
-    header: "PSR",
+    accessorKey: 'psr',
+    header: 'PSR',
     cell: ({ row }) => row.original.psr.toLocaleString(),
   },
   {
-    accessorKey: "por",
-    header: "영업이익",
+    accessorKey: 'por',
+    header: 'POR',
     cell: ({ row }) => row.original.por.toLocaleString(),
   },
   {
-    accessorKey: "pgpr",
-    header: "PGPR",
+    accessorKey: 'pgpr',
+    header: 'PGPR',
     cell: ({ row }) => row.original.pgpr.toLocaleString(),
   },
   {
-    accessorKey: "price",
-    header: "현재가",
+    accessorKey: 'price',
+    header: '현재가',
     cell: ({ row }) => `${row.original.price.toLocaleString()}원`,
   },
-];
+]
 
-export function DataTable({
-  data: initialData,
-}: {
-  data: z.infer<typeof schema>[];
-}) {
-  const [data, setData] = React.useState(() => initialData);
-  const [rowSelection, setRowSelection] = React.useState({});
-  const [columnVisibility, setColumnVisibility] =
-    React.useState<VisibilityState>({});
-  const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>(
-    []
-  );
-  const [sorting, setSorting] = React.useState<SortingState>([]);
+export function DataTable({ data: initialData }: { data: Metric[] }) {
+  const [data, setData] = React.useState(() => initialData)
+  const [rowSelection, setRowSelection] = React.useState({})
+  const [columnVisibility, setColumnVisibility] = React.useState<VisibilityState>({})
+  const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>([])
+  const [sorting, setSorting] = React.useState<SortingState>([])
 
   const table = useReactTable({
     data,
@@ -119,17 +102,13 @@ export function DataTable({
     getSortedRowModel: getSortedRowModel(),
     getFacetedRowModel: getFacetedRowModel(),
     getFacetedUniqueValues: getFacetedUniqueValues(),
-  });
+  })
 
   return (
     <Tabs defaultValue="value" className="w-full flex-col justify-start gap-6">
       <div className="flex items-center justify-between px-4 lg:px-6">
         <Select defaultValue="value">
-          <SelectTrigger
-            className="flex w-fit @4xl/main:hidden"
-            size="sm"
-            id="view-selector"
-          >
+          <SelectTrigger className="flex w-fit @4xl/main:hidden" size="sm" id="view-selector">
             <SelectValue placeholder="Select a view" />
           </SelectTrigger>
           <SelectContent>
@@ -157,10 +136,7 @@ export function DataTable({
                     <TableHead key={header.id} colSpan={header.colSpan}>
                       {header.isPlaceholder
                         ? null
-                        : flexRender(
-                            header.column.columnDef.header,
-                            header.getContext()
-                          )}
+                        : flexRender(header.column.columnDef.header, header.getContext())}
                     </TableHead>
                   ))}
                 </TableRow>
@@ -171,25 +147,19 @@ export function DataTable({
                 table.getRowModel().rows.map((row) => (
                   <TableRow
                     key={row.id}
-                    data-state={row.getIsSelected() && "selected"}
+                    data-state={row.getIsSelected() && 'selected'}
                     className="relative z-0 data-[dragging=true]:z-10 data-[dragging=true]:opacity-80"
                   >
                     {row.getVisibleCells().map((cell) => (
                       <TableCell key={cell.id}>
-                        {flexRender(
-                          cell.column.columnDef.cell,
-                          cell.getContext()
-                        )}
+                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
                       </TableCell>
                     ))}
                   </TableRow>
                 ))
               ) : (
                 <TableRow>
-                  <TableCell
-                    colSpan={columns.length}
-                    className="h-24 text-center"
-                  >
+                  <TableCell colSpan={columns.length} className="h-24 text-center">
                     No results.
                   </TableCell>
                 </TableRow>
@@ -205,5 +175,5 @@ export function DataTable({
         <div className="aspect-video w-full flex-1 rounded-lg border border-dashed"></div>
       </TabsContent>
     </Tabs>
-  );
+  )
 }
