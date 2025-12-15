@@ -1,13 +1,20 @@
 import { configureStore } from '@reduxjs/toolkit'
 
+import { IncomeStatement } from '@/app/types'
 import { incomeStatementReducer } from './income-statement-slice'
 
-export const store = configureStore({
-  reducer: {
-    incomeStatement: incomeStatementReducer,
-  },
-})
+export const makeStore = (data: IncomeStatement[]) =>
+  configureStore({
+    reducer: {
+      incomeStatement: incomeStatementReducer,
+    },
+    preloadedState: {
+      incomeStatement: {
+        data,
+      },
+    },
+  })
 
-export type RootState = ReturnType<typeof store.getState>
-export type AppDispatch = typeof store.dispatch
-export type AppStore = typeof store
+export type AppStore = ReturnType<typeof makeStore>
+export type RootState = ReturnType<AppStore['getState']>
+export type AppDispatch = ReturnType<AppStore['dispatch']>

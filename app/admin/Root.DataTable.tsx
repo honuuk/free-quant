@@ -28,6 +28,11 @@ import QuarterPicker from './Root.QuarterPicker'
 
 const columns: ColumnDef<IncomeStatement>[] = [
   {
+    accessorKey: 'id',
+    header: 'ID',
+    cell: ({ row }) => row.original.id,
+  },
+  {
     accessorKey: 'sector',
     header: '섹터',
     cell: ({ row }) => row.original.sector,
@@ -59,13 +64,8 @@ const columns: ColumnDef<IncomeStatement>[] = [
   },
 ]
 
-interface Props {
-  data: IncomeStatement[]
-}
-
-export function DataTable({ data: initialData }: Props) {
+export function DataTable() {
   const incomeStatements = useAppSelector(selectIncomeStatements)
-  const dispatch = useAppDisPatch()
 
   const [sorting, setSorting] = React.useState<SortingState>([])
 
@@ -80,10 +80,6 @@ export function DataTable({ data: initialData }: Props) {
     getCoreRowModel: getCoreRowModel(),
     getSortedRowModel: getSortedRowModel(),
   })
-
-  React.useEffect(() => {
-    dispatch(setIncomeStatements(initialData))
-  }, [dispatch, initialData])
 
   return (
     <div className="w-full flex flex-col justify-start gap-6">

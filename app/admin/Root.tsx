@@ -2,7 +2,7 @@
 
 import { Provider as ReduxProvider } from 'react-redux'
 
-import { store } from '@/store/store'
+import { makeStore } from '@/store/store'
 import { DataTable } from './Root.DataTable'
 import { IncomeStatement } from '../types'
 
@@ -12,8 +12,8 @@ interface Props {
 
 export function Root({ data }: Props) {
   return (
-    <ReduxProvider store={store}>
-      <DataTable data={data} />
+    <ReduxProvider store={makeStore(data)}>
+      <DataTable />
     </ReduxProvider>
   )
 }
