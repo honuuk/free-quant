@@ -11,8 +11,8 @@ import {
 } from '@tanstack/react-table'
 import { IconCirclePlusFilled } from '@tabler/icons-react'
 
-import { selectIncomeStatements, setIncomeStatements } from '@/store/income-statement-slice'
-import { useAppDisPatch, useAppSelector } from '@/hooks/redux'
+import { selectIncomeStatements } from '@/store/income-statement-slice'
+import { useAppSelector } from '@/hooks/redux'
 import { Button } from '@/components/ui/button'
 import {
   Table,
@@ -25,6 +25,7 @@ import {
 
 import { IncomeStatement } from '../types'
 import QuarterPicker from './Root.QuarterPicker'
+import { Edit } from './Root.DataTable.Edit'
 
 const columns: ColumnDef<IncomeStatement>[] = [
   {
@@ -68,6 +69,9 @@ export function DataTable() {
   const incomeStatements = useAppSelector(selectIncomeStatements)
 
   const [sorting, setSorting] = React.useState<SortingState>([])
+  const [selectedIncomeStatement, setSelectedIncomeStatement] =
+    React.useState<IncomeStatement | null>(null)
+  const [isModalOpen, setIsModalOpen] = React.useState(false)
 
   const table = useReactTable({
     data: incomeStatements,
@@ -80,6 +84,11 @@ export function DataTable() {
     getCoreRowModel: getCoreRowModel(),
     getSortedRowModel: getSortedRowModel(),
   })
+
+  const handleRowClick = (incomeStatement: IncomeStatement) => {
+    setSelectedIncomeStatement(incomeStatement)
+    setIsModalOpen(true)
+  }
 
   return (
     <div className="w-full flex flex-col justify-start gap-6">
@@ -112,7 +121,8 @@ export function DataTable() {
                   <TableRow
                     key={row.id}
                     data-state={row.getIsSelected() && 'selected'}
-                    className="relative z-0 data-[dragging=true]:z-10 data-[dragging=true]:opacity-80"
+                    className="relative z-0 data-[dragging=true]:z-10 data-[dragging=true]:opacity-80 cursor-pointer hover:bg-muted/50"
+                    onClick={() => handleRowClick(row.original)}
                   >
                     {row.getVisibleCells().map((cell) => (
                       <TableCell key={cell.id}>
@@ -132,6 +142,11 @@ export function DataTable() {
           </Table>
         </div>
       </div>
+      <Edit
+        open={isModalOpen}
+        onOpenChange={setIsModalOpen}
+        incomeStatement={selectedIncomeStatement}
+      />
     </div>
   )
 }

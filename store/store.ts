@@ -15,6 +15,7 @@ export const makeStore = (data: IncomeStatement[]) =>
     },
   })
 
-export type AppStore = ReturnType<typeof makeStore>
-export type RootState = ReturnType<AppStore['getState']>
-export type AppDispatch = ReturnType<AppStore['dispatch']>
+type StoreType = ReturnType<typeof makeStore>
+export type AppStore = StoreType
+export type RootState = ReturnType<StoreType['getState']>
+export type AppDispatch = StoreType['dispatch']
