@@ -1,0 +1,6374 @@
+[
+  {
+    "id": "000120",
+    "company": "CJ대한통운",
+    "sector": "도로 화물 운송업",
+    "net_income": 172589249022,
+    "total_sales": 9107601658347,
+    "operation_profit": 348517429425,
+    "gross_profit": 996935824896
+  },
+  {
+    "id": "000990",
+    "company": "DB하이텍",
+    "sector": "반도체 제조업",
+    "net_income": 196633918744,
+    "total_sales": 1009436669283,
+    "operation_profit": 206923447050,
+    "gross_profit": 365856164198
+  },
+  {
+    "id": "000210",
+    "company": "DL",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -78785216773,
+    "total_sales": 4096279315624,
+    "operation_profit": 286766945931,
+    "gross_profit": 950630153607
+  },
+  {
+    "id": "375500",
+    "company": "DL이앤씨",
+    "sector": "토목 건설업",
+    "net_income": 164857322250,
+    "total_sales": 5706605819610,
+    "operation_profit": 323933183477,
+    "gross_profit": 703320552160
+  },
+  {
+    "id": "155660",
+    "company": "DSR",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 11365840998,
+    "total_sales": 225431893404,
+    "operation_profit": 14172544916,
+    "gross_profit": 34384747898
+  },
+  {
+    "id": "006360",
+    "company": "GS건설",
+    "sector": "건물 건설업",
+    "net_income": 48732043690,
+    "total_sales": 9466960139610,
+    "operation_profit": 380911013240,
+    "gross_profit": 978748377988
+  },
+  {
+    "id": "089470",
+    "company": "HDC현대EP",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 24818845283,
+    "total_sales": 759966677720,
+    "operation_profit": 40357156898,
+    "gross_profit": 93262098338
+  },
+  {
+    "id": "294870",
+    "company": "HDC현대산업개발",
+    "sector": "건물 건설업",
+    "net_income": 146726723432,
+    "total_sales": 3121961664900,
+    "operation_profit": 207264585231,
+    "gross_profit": 383544391081
+  },
+  {
+    "id": "042670",
+    "company": "HD현대인프라코어",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 134496743813,
+    "total_sales": 3333237575320,
+    "operation_profit": 254555895330,
+    "gross_profit": 831203815656
+  },
+  {
+    "id": "097230",
+    "company": "HJ중공업",
+    "sector": "토목 건설업",
+    "net_income": 2882000000,
+    "total_sales": 1370051000000,
+    "operation_profit": 16587000000,
+    "gross_profit": 94900000000
+  },
+  {
+    "id": "035000",
+    "company": "HS애드",
+    "sector": "광고업",
+    "net_income": -4956477914,
+    "total_sales": 271960341005,
+    "operation_profit": -3848538006,
+    "gross_profit": 151837591795
+  },
+  {
+    "id": "298050",
+    "company": "HS효성첨단소재",
+    "sector": "화학섬유 제조업",
+    "net_income": 8026529308,
+    "total_sales": 2497591585471,
+    "operation_profit": 127166660297,
+    "gross_profit": 272038202147
+  },
+  {
+    "id": "058860",
+    "company": "KTis",
+    "sector": "기타 정보 서비스업",
+    "net_income": 34140394187,
+    "total_sales": 436357958014,
+    "operation_profit": 20669619192
+  },
+  {
+    "id": "051900",
+    "company": "LG생활건강",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 165424913570,
+    "total_sales": 4882700382272,
+    "operation_profit": 243378470805,
+    "gross_profit": 2433421727814
+  },
+  {
+    "id": "064400",
+    "company": "LG씨엔에스",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 261546414000,
+    "total_sales": 4193882369000,
+    "operation_profit": 339859503000,
+    "gross_profit": 609550152000
+  },
+  {
+    "id": "373220",
+    "company": "LG에너지솔루션",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": 853274000000,
+    "total_sales": 17530276000000,
+    "operation_profit": 1468141000000,
+    "gross_profit": 3461206000000
+  },
+  {
+    "id": "032640",
+    "company": "LG유플러스",
+    "sector": "전기 통신업",
+    "net_income": 428658000000,
+    "total_sales": 11603313000000,
+    "operation_profit": 721603000000
+  },
+  {
+    "id": "011070",
+    "company": "LG이노텍",
+    "sector": "전자 부품 제조업",
+    "net_income": 205325000000,
+    "total_sales": 14286847000000,
+    "operation_profit": 340257000000,
+    "gross_profit": 1094503000000
+  },
+  {
+    "id": "066570",
+    "company": "LG전자",
+    "sector": "통신 및 방송장비 제조업",
+    "net_income": 1946335000000,
+    "total_sales": 65348728000000,
+    "operation_profit": 2587381000000,
+    "gross_profit": 16011409000000
+  },
+  {
+    "id": "037560",
+    "company": "LG헬로비전",
+    "sector": "텔레비전 방송업",
+    "net_income": 12192877130,
+    "total_sales": 966115325621,
+    "operation_profit": 26585371750
+  },
+  {
+    "id": "051910",
+    "company": "LG화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 595768000000,
+    "total_sales": 34735033000000,
+    "operation_profit": 1594164000000,
+    "gross_profit": 6308300000000
+  },
+  {
+    "id": "108320",
+    "company": "LX세미콘",
+    "sector": "반도체 제조업",
+    "net_income": 63765988081,
+    "total_sales": 1249238954809,
+    "operation_profit": 83950521624,
+    "gross_profit": 397959013505
+  },
+  {
+    "id": "001120",
+    "company": "LX인터내셔널",
+    "sector": "상품 중개업",
+    "net_income": 213858135341,
+    "total_sales": 12386246947115,
+    "operation_profit": 236705426250,
+    "gross_profit": 1043079555961
+  },
+  {
+    "id": "108670",
+    "company": "LX하우시스",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 10785000000,
+    "total_sales": 2413533000000,
+    "operation_profit": 41968000000,
+    "gross_profit": 574204000000
+  },
+  {
+    "id": "456040",
+    "company": "OCI",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -71961272000,
+    "total_sales": 1542141621000,
+    "operation_profit": -2372684000,
+    "gross_profit": 154191908000
+  },
+  {
+    "id": "017670",
+    "company": "SK텔레콤",
+    "sector": "전기 통신업",
+    "net_income": 278091000000,
+    "total_sales": 12770541000000,
+    "operation_profit": 954082000000
+  },
+  {
+    "id": "005610",
+    "company": "SPC삼립",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 14159942884,
+    "total_sales": 2501468556050,
+    "operation_profit": 33994230792,
+    "gross_profit": 357157681860
+  },
+  {
+    "id": "009450",
+    "company": "경동나비엔",
+    "sector": "가정용 기기 제조업",
+    "net_income": 71001094174,
+    "total_sales": 1063484256093,
+    "operation_profit": 98632961286,
+    "gross_profit": 457583368306
+  },
+  {
+    "id": "000050",
+    "company": "경방",
+    "sector": "종합 소매업",
+    "net_income": 29251835533,
+    "total_sales": 294283242317,
+    "operation_profit": 27052767120,
+    "gross_profit": 91942575380
+  },
+  {
+    "id": "011780",
+    "company": "금호석유화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 289492337717,
+    "total_sales": 5325409546751,
+    "operation_profit": 270271783191,
+    "gross_profit": 495434275367
+  },
+  {
+    "id": "000270",
+    "company": "기아",
+    "sector": "자동차용 엔진 및 자동차 제조업",
+    "net_income": 6083272000000,
+    "total_sales": 86053182000000,
+    "operation_profit": 7235605000000,
+    "gross_profit": 17365159000000
+  },
+  {
+    "id": "004270",
+    "company": "남성",
+    "sector": "기타 전문 도매업",
+    "net_income": -3126729598,
+    "total_sales": 56388163222,
+    "operation_profit": 748545436,
+    "gross_profit": 17520320383
+  },
+  {
+    "id": "004370",
+    "company": "농심",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 139186048282,
+    "total_sales": 2631917830085,
+    "operation_profit": 150579546220,
+    "gross_profit": 757307545457
+  },
+  {
+    "id": "019680",
+    "company": "대교",
+    "sector": "초등 교육기관",
+    "net_income": -3203233064,
+    "total_sales": 488828395398,
+    "operation_profit": 931695936,
+    "gross_profit": 102357181039
+  },
+  {
+    "id": "006370",
+    "company": "대구백화점",
+    "sector": "종합 소매업",
+    "net_income": -23766890350,
+    "total_sales": 40068949341,
+    "operation_profit": -10345316639,
+    "gross_profit": 15851253251
+  },
+  {
+    "id": "047040",
+    "company": "대우건설",
+    "sector": "건물 건설업",
+    "net_income": -37925322579,
+    "total_sales": 6340600605023,
+    "operation_profit": 290086754843,
+    "gross_profit": 672006877134
+  },
+  {
+    "id": "000430",
+    "company": "대원강업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 20057786000,
+    "total_sales": 1193639494000,
+    "operation_profit": 31588233000,
+    "gross_profit": 119084110000
+  },
+  {
+    "id": "439260",
+    "company": "대한조선",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 170061745580,
+    "total_sales": 877722651978,
+    "operation_profit": 198774221658,
+    "gross_profit": 217769342292
+  },
+  {
+    "id": "460850",
+    "company": "동국씨엠",
+    "sector": "1차 철강 제조업",
+    "net_income": -42898348421,
+    "total_sales": 2104752699517,
+    "operation_profit": -13470441980,
+    "gross_profit": 89454386862
+  },
+  {
+    "id": "460860",
+    "company": "동국제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 21694480232,
+    "total_sales": 2388422828707,
+    "operation_profit": 58662532823,
+    "gross_profit": 219607417125
+  },
+  {
+    "id": "001520",
+    "company": "동양",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": -10748629811,
+    "total_sales": 480544486444,
+    "operation_profit": -15361044752,
+    "gross_profit": 38950086036
+  },
+  {
+    "id": "084670",
+    "company": "동양고속",
+    "sector": "육상 여객 운송업",
+    "net_income": 1375677663,
+    "total_sales": 90167095924,
+    "operation_profit": 1586939354,
+    "gross_profit": 8704325427
+  },
+  {
+    "id": "034020",
+    "company": "두산에너빌리티",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 152624000000,
+    "total_sales": 12197945000000,
+    "operation_profit": 550640000000,
+    "gross_profit": 1948236000000
+  },
+  {
+    "id": "003160",
+    "company": "디아이",
+    "sector": "측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외",
+    "net_income": 23822160274,
+    "total_sales": 338378563869,
+    "operation_profit": 32180213501,
+    "gross_profit": 69942390296
+  },
+  {
+    "id": "001530",
+    "company": "디아이동일",
+    "sector": "상품 중개업",
+    "net_income": -7014810087,
+    "total_sales": 463635578427,
+    "operation_profit": 1606866636,
+    "gross_profit": 47946642157
+  },
+  {
+    "id": "089860",
+    "company": "롯데렌탈",
+    "sector": "운송장비 임대업",
+    "net_income": 98628349773,
+    "total_sales": 2192364628584,
+    "operation_profit": 233198978680
+  },
+  {
+    "id": "017180",
+    "company": "명문제약",
+    "sector": "의약품 제조업",
+    "net_income": 589478161,
+    "total_sales": 144494299101,
+    "operation_profit": 5222378178,
+    "gross_profit": 78546428193
+  },
+  {
+    "id": "009680",
+    "company": "모토닉",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 19684591658,
+    "total_sales": 210365577640,
+    "operation_profit": 12886204796,
+    "gross_profit": 29878828738
+  },
+  {
+    "id": "028050",
+    "company": "삼성E&A",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 456300990581,
+    "total_sales": 6271586984132,
+    "operation_profit": 514707024088,
+    "gross_profit": 916836755906
+  },
+  {
+    "id": "005930",
+    "company": "삼성전자",
+    "sector": "통신 및 방송장비 제조업",
+    "net_income": 25565060000000,
+    "total_sales": 239768567000000,
+    "operation_profit": 23527391000000,
+    "gross_profit": 87119450000000
+  },
+  {
+    "id": "010140",
+    "company": "삼성중공업",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 442709630737,
+    "total_sales": 7812082070263,
+    "operation_profit": 565975672246,
+    "gross_profit": 916217424465
+  },
+  {
+    "id": "004450",
+    "company": "삼화왕관",
+    "sector": "기타 금속 가공제품 제조업",
+    "net_income": 3874182290,
+    "total_sales": 125704544278,
+    "operation_profit": 5423689463,
+    "gross_profit": 18592826972
+  },
+  {
+    "id": "021820",
+    "company": "세원정공",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 32671144595,
+    "total_sales": 118729163651,
+    "operation_profit": 8889022100,
+    "gross_profit": 19625597192
+  },
+  {
+    "id": "068270",
+    "company": "셀트리온",
+    "sector": "기초 의약 물질 및 생물학적 제제 제조업",
+    "net_income": 503555876965,
+    "total_sales": 2832338101184,
+    "operation_profit": 693299607299,
+    "gross_profit": 1613329970016
+  },
+  {
+    "id": "336370",
+    "company": "솔루스첨단소재",
+    "sector": "전자 부품 제조업",
+    "net_income": -113368507646,
+    "total_sales": 446602734134,
+    "operation_profit": -51406851090,
+    "gross_profit": 29740524790
+  },
+  {
+    "id": "000480",
+    "company": "시알홀딩스",
+    "sector": "내화, 비내화 요업제품 제조업",
+    "net_income": 2469518000,
+    "total_sales": 634493756000,
+    "operation_profit": 32848293000,
+    "gross_profit": 107977215000
+  },
+  {
+    "id": "004970",
+    "company": "신라교역",
+    "sector": "어로 어업",
+    "net_income": -7479053954,
+    "total_sales": 326703816132,
+    "operation_profit": -2344050058,
+    "gross_profit": 51834015925
+  },
+  {
+    "id": "011930",
+    "company": "신성이엔지",
+    "sector": "반도체 제조업",
+    "net_income": -10442873198,
+    "total_sales": 414866720530,
+    "operation_profit": -1629405145,
+    "gross_profit": 42791675764
+  },
+  {
+    "id": "004170",
+    "company": "신세계",
+    "sector": "종합 소매업",
+    "net_income": 133695010962,
+    "total_sales": 4995796461428,
+    "operation_profit": 307426417261,
+    "gross_profit": 3027914148981
+  },
+  {
+    "id": "011090",
+    "company": "에넥스",
+    "sector": "가구 제조업",
+    "net_income": 1886924011,
+    "total_sales": 167178752846,
+    "operation_profit": 2720253723,
+    "gross_profit": 16655971914
+  },
+  {
+    "id": "005850",
+    "company": "에스엘",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 244216510697,
+    "total_sales": 3831037737377,
+    "operation_profit": 293558861684,
+    "gross_profit": 521756338729
+  },
+  {
+    "id": "012750",
+    "company": "에스원",
+    "sector": "경비, 경호 및 탐정업",
+    "net_income": 142409465614,
+    "total_sales": 2105515985462,
+    "operation_profit": 178733597944,
+    "gross_profit": 498044384118
+  },
+  {
+    "id": "025530",
+    "company": "에스제이엠홀딩스",
+    "sector": "자동차 부품 및 내장품 판매업",
+    "net_income": 14102598275,
+    "total_sales": 155403754651,
+    "operation_profit": 11548249584,
+    "gross_profit": 41770147198
+  },
+  {
+    "id": "484870",
+    "company": "엠앤씨솔루션",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 28308839144,
+    "total_sales": 260123415437,
+    "operation_profit": 34442958963,
+    "gross_profit": 45755503820
+  },
+  {
+    "id": "111770",
+    "company": "영원무역",
+    "sector": "상품 종합 도매업",
+    "net_income": 323390835601,
+    "total_sales": 3054290855405,
+    "operation_profit": 409226296778,
+    "gross_profit": 838902021716
+  },
+  {
+    "id": "025820",
+    "company": "이구산업",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 9227599518,
+    "total_sales": 386197984878,
+    "operation_profit": 15203525646,
+    "gross_profit": 19980524956
+  },
+  {
+    "id": "139480",
+    "company": "이마트",
+    "sector": "종합 소매업",
+    "net_income": 362591284354,
+    "total_sales": 21658682214785,
+    "operation_profit": 332398439299,
+    "gross_profit": 6774839999185
+  },
+  {
+    "id": "457190",
+    "company": "이수스페셜티케미컬",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -2145739717,
+    "total_sales": 302591890732,
+    "operation_profit": -16258834,
+    "gross_profit": 27380723045
+  },
+  {
+    "id": "005950",
+    "company": "이수화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -18206091000,
+    "total_sales": 1182267584000,
+    "operation_profit": 10293448000,
+    "gross_profit": 94726635000
+  },
+  {
+    "id": "000760",
+    "company": "이화산업",
+    "sector": "기타 전문 도매업",
+    "net_income": 310476919,
+    "total_sales": 35457862482,
+    "operation_profit": 958795374,
+    "gross_profit": 8461765641
+  },
+  {
+    "id": "129260",
+    "company": "인터지스",
+    "sector": "도로 화물 운송업",
+    "net_income": 16022630672,
+    "total_sales": 533796155284,
+    "operation_profit": 21208298455,
+    "gross_profit": 43104105171
+  },
+  {
+    "id": "023810",
+    "company": "인팩",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 13748790859,
+    "total_sales": 443168054330,
+    "operation_profit": 24420311849,
+    "gross_profit": 79459188463
+  },
+  {
+    "id": "007570",
+    "company": "일양약품",
+    "sector": "의약품 제조업",
+    "net_income": 12774153018,
+    "total_sales": 193510334310,
+    "operation_profit": 4396635052,
+    "gross_profit": 82839335198
+  },
+  {
+    "id": "462520",
+    "company": "조선내화",
+    "sector": "내화, 비내화 요업제품 제조업",
+    "net_income": 2033025000,
+    "total_sales": 402653272000,
+    "operation_profit": 21583293000,
+    "gross_profit": 52600770000
+  },
+  {
+    "id": "185750",
+    "company": "종근당",
+    "sector": "의약품 제조업",
+    "net_income": 51534676491,
+    "total_sales": 1265623700034,
+    "operation_profit": 57083437838,
+    "gross_profit": 395880177522
+  },
+  {
+    "id": "001630",
+    "company": "종근당홀딩스",
+    "sector": "의약품 제조업",
+    "net_income": 39241120528,
+    "total_sales": 723022916451,
+    "operation_profit": 46529239941,
+    "gross_profit": 329565350887
+  },
+  {
+    "id": "002780",
+    "company": "진흥기업",
+    "sector": "토목 건설업",
+    "net_income": -1554124442,
+    "total_sales": 389421053554,
+    "operation_profit": 3691145065,
+    "gross_profit": 29871438950
+  },
+  {
+    "id": "030200",
+    "company": "케이티",
+    "sector": "전기 통신업",
+    "net_income": 1745334000000,
+    "total_sales": 21399188000000,
+    "operation_profit": 2241770000000
+  },
+  {
+    "id": "053210",
+    "company": "케이티스카이라이프",
+    "sector": "텔레비전 방송업",
+    "net_income": 24804307103,
+    "total_sales": 737038571076,
+    "operation_profit": 34560378352
+  },
+  {
+    "id": "005420",
+    "company": "코스모화학",
+    "sector": "기타 화학제품 제조업",
+    "net_income": -15306542390,
+    "total_sales": 490660832623,
+    "operation_profit": -8686407739,
+    "gross_profit": 22562967402
+  },
+  {
+    "id": "009410",
+    "company": "태영건설",
+    "sector": "토목 건설업",
+    "net_income": 522597313,
+    "total_sales": 1707072815781,
+    "operation_profit": 39626393167,
+    "gross_profit": 125400320915
+  },
+  {
+    "id": "016800",
+    "company": "퍼시스",
+    "sector": "가구 제조업",
+    "net_income": 27287535261,
+    "total_sales": 266142241533,
+    "operation_profit": 3320948293,
+    "gross_profit": 86827492484
+  },
+  {
+    "id": "002960",
+    "company": "한국쉘석유",
+    "sector": "석유 정제품 제조업",
+    "net_income": 36109868870,
+    "total_sales": 266586899677,
+    "operation_profit": 43248079201,
+    "gross_profit": 84705948568
+  },
+  {
+    "id": "023350",
+    "company": "한국종합기술",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 2782546456,
+    "total_sales": 290414963832,
+    "operation_profit": 1824029019,
+    "gross_profit": 27160672065
+  },
+  {
+    "id": "104700",
+    "company": "한국철강",
+    "sector": "1차 철강 제조업",
+    "net_income": -11043703407,
+    "total_sales": 360209403310,
+    "operation_profit": -22926265758,
+    "gross_profit": 91470797
+  },
+  {
+    "id": "002390",
+    "company": "한독",
+    "sector": "의약품 제조업",
+    "net_income": -10183662267,
+    "total_sales": 395083420490,
+    "operation_profit": -1252401579,
+    "gross_profit": 115656645276
+  },
+  {
+    "id": "004960",
+    "company": "한신공영",
+    "sector": "건물 건설업",
+    "net_income": 33266233479,
+    "total_sales": 890615275800,
+    "operation_profit": 56467324556,
+    "gross_profit": 125918255452
+  },
+  {
+    "id": "018880",
+    "company": "한온시스템",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 17593441439,
+    "total_sales": 8181219176542,
+    "operation_profit": 180676766302,
+    "gross_profit": 731800283945
+  },
+  {
+    "id": "300720",
+    "company": "한일시멘트",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 70943651029,
+    "total_sales": 1063616955802,
+    "operation_profit": 115145174353,
+    "gross_profit": 252041188454
+  },
+  {
+    "id": "003300",
+    "company": "한일홀딩스",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 70291281249,
+    "total_sales": 1458659817505,
+    "operation_profit": 109064324853,
+    "gross_profit": 272407391122
+  },
+  {
+    "id": "130660",
+    "company": "한전산업",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 3546070879,
+    "total_sales": 290155222104,
+    "operation_profit": 4855096151,
+    "gross_profit": 23457571817
+  },
+  {
+    "id": "003480",
+    "company": "한진중공업홀딩스",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 33360000000,
+    "total_sales": 855380000000,
+    "operation_profit": 49651000000
+  },
+  {
+    "id": "082740",
+    "company": "한화엔진",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 71265523318,
+    "total_sales": 1003227704036,
+    "operation_profit": 82718686681,
+    "gross_profit": 120682823893
+  },
+  {
+    "id": "042660",
+    "company": "한화오션",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 633589205196,
+    "total_sales": 9460560834373,
+    "operation_profit": 920071024943,
+    "gross_profit": 1403895401977
+  },
+  {
+    "id": "086280",
+    "company": "현대글로비스",
+    "sector": "기타 운송관련 서비스업",
+    "net_income": 1294269458025,
+    "total_sales": 22094411557954,
+    "operation_profit": 1564750979300,
+    "gross_profit": 2068250638270
+  },
+  {
+    "id": "012330",
+    "company": "현대모비스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 2896656000000,
+    "total_sales": 45720207000000,
+    "operation_profit": 2426982000000,
+    "gross_profit": 6389632000000
+  },
+  {
+    "id": "069960",
+    "company": "현대백화점",
+    "sector": "종합 소매업",
+    "net_income": 190462871000,
+    "total_sales": 3188634507000,
+    "operation_profit": 272031071000,
+    "gross_profit": 1869136234000
+  },
+  {
+    "id": "005380",
+    "company": "현대자동차",
+    "sector": "자동차용 엔진 및 자동차 제조업",
+    "net_income": 9180747000000,
+    "total_sales": 139415886000000,
+    "operation_profit": 9772472000000,
+    "gross_profit": 26373397000000
+  },
+  {
+    "id": "011760",
+    "company": "현대코퍼레이션",
+    "sector": "상품 종합 도매업",
+    "net_income": 60527795443,
+    "total_sales": 5665242370479,
+    "operation_profit": 106931515115,
+    "gross_profit": 208080375540
+  },
+  {
+    "id": "227840",
+    "company": "현대코퍼레이션홀딩스",
+    "sector": "음ㆍ식료품 및 담배 도매업",
+    "net_income": 26287030085,
+    "total_sales": 188337545311,
+    "operation_profit": 15164741201,
+    "gross_profit": 36044127135
+  },
+  {
+    "id": "111110",
+    "company": "호전실업",
+    "sector": "봉제의복 제조업",
+    "net_income": 4942219791,
+    "total_sales": 383098186715,
+    "operation_profit": 19010971366,
+    "gross_profit": 66741121867
+  },
+  {
+    "id": "008770",
+    "company": "호텔신라",
+    "sector": "기타 상품 전문 소매업",
+    "net_income": -156221851019,
+    "total_sales": 3022927413523,
+    "operation_profit": 17630254667
+  },
+  {
+    "id": "010660",
+    "company": "화천기계",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 2492629465,
+    "total_sales": 166752050868,
+    "operation_profit": 1335776744,
+    "gross_profit": 15899952917
+  },
+  {
+    "id": "298040",
+    "company": "효성중공업",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 342744383091,
+    "total_sales": 4225556253193,
+    "operation_profit": 486457611805,
+    "gross_profit": 860783957818
+  },
+  {
+    "id": "298020",
+    "company": "효성티앤씨",
+    "sector": "화학섬유 제조업",
+    "net_income": 61476930028,
+    "total_sales": 5851674198787,
+    "operation_profit": 206764147599,
+    "gross_profit": 476628567200
+  },
+  {
+    "id": "298000",
+    "company": "효성화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 435949441237,
+    "total_sales": 1770217060286,
+    "operation_profit": -87158053824,
+    "gross_profit": -19250494585
+  },
+  {
+    "id": "241560",
+    "company": "두산밥캣",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 224371000,
+    "total_sales": 4540475000,
+    "operation_profit": 380695000,
+    "gross_profit": 1030214000
+  },
+  {
+    "id": "095570",
+    "company": "AJ네트웍스",
+    "sector": "산업용 기계 및 장비 임대업",
+    "net_income": 23510716000,
+    "total_sales": 797676556000,
+    "operation_profit": 46311299000
+  },
+  {
+    "id": "282330",
+    "company": "BGF리테일",
+    "sector": "종합 소매업",
+    "net_income": 145474670395,
+    "total_sales": 6768851539323,
+    "operation_profit": 189680425773,
+    "gross_profit": 1263135584992
+  },
+  {
+    "id": "001460",
+    "company": "BYC",
+    "sector": "봉제의복 제조업",
+    "net_income": 11139115047,
+    "total_sales": 113939120495,
+    "operation_profit": 15234764734,
+    "gross_profit": 50762113797
+  },
+  {
+    "id": "079160",
+    "company": "CJ CGV",
+    "sector": "영화, 비디오물, 방송 프로그램 제작 및 배급업",
+    "net_income": -105010440485,
+    "total_sales": 1608286791139,
+    "operation_profit": 28261763692
+  },
+  {
+    "id": "011150",
+    "company": "CJ씨푸드",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 536461427,
+    "total_sales": 144426023788,
+    "operation_profit": -3123489618,
+    "gross_profit": 14213813015
+  },
+  {
+    "id": "097950",
+    "company": "CJ제일제당",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 381777242000,
+    "total_sales": 21885146934000,
+    "operation_profit": 1028772097000,
+    "gross_profit": 4730632390000
+  },
+  {
+    "id": "012030",
+    "company": "DB",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 62848395283,
+    "total_sales": 451318537787,
+    "operation_profit": 39236075549,
+    "gross_profit": 77259297937
+  },
+  {
+    "id": "000300",
+    "company": "DH오토넥스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 3859609745,
+    "total_sales": 26935547113,
+    "operation_profit": 2696308666,
+    "gross_profit": 6036902154
+  },
+  {
+    "id": "015590",
+    "company": "DKME",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 3037856972,
+    "total_sales": 106208114893,
+    "operation_profit": 9648317538,
+    "gross_profit": 24292095132
+  },
+  {
+    "id": "007340",
+    "company": "DN오토모티브",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": 218770915000,
+    "total_sales": 2707082486000,
+    "operation_profit": 377952538000,
+    "gross_profit": 696016381000
+  },
+  {
+    "id": "004840",
+    "company": "DRB동일",
+    "sector": "고무제품 제조업",
+    "net_income": 11922317010,
+    "total_sales": 599209710038,
+    "operation_profit": 22479631092,
+    "gross_profit": 117027348131
+  },
+  {
+    "id": "069730",
+    "company": "DSR제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 18067346794,
+    "total_sales": 169289954217,
+    "operation_profit": 22165934800,
+    "gross_profit": 35546121425
+  },
+  {
+    "id": "017860",
+    "company": "DS단석",
+    "sector": "기타 화학제품 제조업",
+    "net_income": -467181359,
+    "total_sales": 724674503663,
+    "operation_profit": 9042267998,
+    "gross_profit": 40027850485
+  },
+  {
+    "id": "092780",
+    "company": "DYP",
+    "sector": "자동차용 엔진 및 자동차 제조업",
+    "net_income": 3574399244,
+    "total_sales": 332637734167,
+    "operation_profit": 10398213393,
+    "gross_profit": 37563196137
+  },
+  {
+    "id": "017940",
+    "company": "E1",
+    "sector": "기타 전문 도매업",
+    "net_income": 142792413650,
+    "total_sales": 7449021045548,
+    "operation_profit": 296777409533,
+    "gross_profit": 612673477221
+  },
+  {
+    "id": "383220",
+    "company": "F&F",
+    "sector": "봉제의복 제조업",
+    "net_income": 245903103809,
+    "total_sales": 1358744179377,
+    "operation_profit": 335665968008,
+    "gross_profit": 897594364837
+  },
+  {
+    "id": "114090",
+    "company": "GKL",
+    "sector": "유원지 및 기타 오락관련 서비스업",
+    "net_income": 47732278122,
+    "total_sales": 320188356478,
+    "operation_profit": 53445042953,
+    "gross_profit": 75741668434
+  },
+  {
+    "id": "001250",
+    "company": "GS글로벌",
+    "sector": "상품 종합 도매업",
+    "net_income": 19679169000,
+    "total_sales": 3041516655000,
+    "operation_profit": 42203516000,
+    "gross_profit": 138952507000
+  },
+  {
+    "id": "007070",
+    "company": "GS리테일",
+    "sector": "종합 소매업",
+    "net_income": 109324119748,
+    "total_sales": 8931449996003,
+    "operation_profit": 238799583718,
+    "gross_profit": 2177886099434
+  },
+  {
+    "id": "039570",
+    "company": "HDC랩스",
+    "sector": "전기 및 통신 공사업",
+    "net_income": 9331326418,
+    "total_sales": 487258954048,
+    "operation_profit": 8840169122,
+    "gross_profit": 41878371035
+  },
+  {
+    "id": "267270",
+    "company": "HD현대건설기계",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 68525172000,
+    "total_sales": 2829261843000,
+    "operation_profit": 137507983000,
+    "gross_profit": 563174773000
+  },
+  {
+    "id": "443060",
+    "company": "HD현대마린솔루션",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 196066970811,
+    "total_sales": 1466495427203,
+    "operation_profit": 259613075092,
+    "gross_profit": 335178943816
+  },
+  {
+    "id": "071970",
+    "company": "HD현대마린엔진",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 53010258179,
+    "total_sales": 291420576167,
+    "operation_profit": 48022696004,
+    "gross_profit": 68359414269
+  },
+  {
+    "id": "010620",
+    "company": "HD현대미포",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 259748245000,
+    "total_sales": 3718620598000,
+    "operation_profit": 358710742000,
+    "gross_profit": 489820998000
+  },
+  {
+    "id": "322000",
+    "company": "HD현대에너지솔루션",
+    "sector": "반도체 제조업",
+    "net_income": 22282194018,
+    "total_sales": 340014392229,
+    "operation_profit": 26701961398,
+    "gross_profit": 71136352897
+  },
+  {
+    "id": "267260",
+    "company": "HD현대일렉트릭",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 486463821470,
+    "total_sales": 2916318691520,
+    "operation_profit": 674396739346,
+    "gross_profit": 973214849342
+  },
+  {
+    "id": "329180",
+    "company": "HD현대중공업",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 925932115000,
+    "total_sales": 12387538781000,
+    "operation_profit": 1462475548000,
+    "gross_profit": 2089962835000
+  },
+  {
+    "id": "014790",
+    "company": "HL D&I",
+    "sector": "토목 건설업",
+    "net_income": 15049122889,
+    "total_sales": 1208686197455,
+    "operation_profit": 59462103113,
+    "gross_profit": 143875075251
+  },
+  {
+    "id": "003580",
+    "company": "HLB글로벌",
+    "sector": "종합 소매업",
+    "net_income": -10320520907,
+    "total_sales": 78476827999,
+    "operation_profit": -5408123100,
+    "gross_profit": 42635628970
+  },
+  {
+    "id": "204320",
+    "company": "HL만도",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 93750443933,
+    "total_sales": 6993197080709,
+    "operation_profit": 277436735959,
+    "gross_profit": 1046681126138
+  },
+  {
+    "id": "011200",
+    "company": "HMM",
+    "sector": "해상 운송업",
+    "net_income": 1514850000000,
+    "total_sales": 8183821000000,
+    "operation_profit": 1143909000000,
+    "gross_profit": 1580812000000
+  },
+  {
+    "id": "002460",
+    "company": "HS화성",
+    "sector": "건물 건설업",
+    "net_income": 32840623813,
+    "total_sales": 562776200809,
+    "operation_profit": 46746992800,
+    "gross_profit": 86653956550
+  },
+  {
+    "id": "015360",
+    "company": "INVENI",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 79759333000,
+    "total_sales": 929963834000,
+    "operation_profit": 90414404000,
+    "gross_profit": 191859029000
+  },
+  {
+    "id": "234080",
+    "company": "JW생명과학",
+    "sector": "의약품 제조업",
+    "net_income": 22153126748,
+    "total_sales": 193501848608,
+    "operation_profit": 25662592674,
+    "gross_profit": 54114661927
+  },
+  {
+    "id": "001060",
+    "company": "JW중외제약",
+    "sector": "의약품 제조업",
+    "net_income": 46193360587,
+    "total_sales": 576357200264,
+    "operation_profit": 79004204994,
+    "gross_profit": 269465389729
+  },
+  {
+    "id": "008970",
+    "company": "KBI동양철관",
+    "sector": "1차 철강 제조업",
+    "net_income": -1013855429,
+    "total_sales": 145719191190,
+    "operation_profit": -918888427,
+    "gross_profit": 9829709755
+  },
+  {
+    "id": "119650",
+    "company": "KC코트렐",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": -12788064735,
+    "total_sales": 153151747387,
+    "operation_profit": -2274514536,
+    "gross_profit": 10365035043
+  },
+  {
+    "id": "092220",
+    "company": "KEC",
+    "sector": "반도체 제조업",
+    "net_income": -13378652685,
+    "total_sales": 175883837653,
+    "operation_profit": -15614659461,
+    "gross_profit": 13222857755
+  },
+  {
+    "id": "003620",
+    "company": "KG모빌리티",
+    "sector": "자동차용 엔진 및 자동차 제조업",
+    "net_income": 3541794345,
+    "total_sales": 3120243854860,
+    "operation_profit": 15114716550,
+    "gross_profit": 325145416747
+  },
+  {
+    "id": "016380",
+    "company": "KG스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": 103271752948,
+    "total_sales": 2448221157556,
+    "operation_profit": 155924190564,
+    "gross_profit": 245396100986
+  },
+  {
+    "id": "001390",
+    "company": "KG케미칼",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 184415783049,
+    "total_sales": 6765521942035,
+    "operation_profit": 275640302694,
+    "gross_profit": 815949411988
+  },
+  {
+    "id": "033180",
+    "company": "KH 필룩스",
+    "sector": "전자 부품 제조업",
+    "net_income": 4727932976,
+    "total_sales": 129507088264,
+    "operation_profit": -653318285,
+    "gross_profit": 32704223354
+  },
+  {
+    "id": "001940",
+    "company": "KISCO홀딩스",
+    "sector": "1차 철강 제조업",
+    "net_income": -16140951293,
+    "total_sales": 605998546894,
+    "operation_profit": -41811839612,
+    "gross_profit": -3421865883
+  },
+  {
+    "id": "025000",
+    "company": "KPX케미칼",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 42099385323,
+    "total_sales": 648130857786,
+    "operation_profit": 32027920819,
+    "gross_profit": 106510812031
+  },
+  {
+    "id": "092230",
+    "company": "KPX홀딩스",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 87761986010,
+    "total_sales": 877869073193,
+    "operation_profit": 40176946109,
+    "gross_profit": 139144283444
+  },
+  {
+    "id": "000040",
+    "company": "KR모터스",
+    "sector": "그 외 기타 운송장비 제조업",
+    "net_income": -4129363708,
+    "total_sales": 10888465074,
+    "operation_profit": -2268377144,
+    "gross_profit": 1544452199
+  },
+  {
+    "id": "044450",
+    "company": "KSS해운",
+    "sector": "해상 운송업",
+    "net_income": 23039858876,
+    "total_sales": 413985711593,
+    "operation_profit": 80618194354,
+    "gross_profit": 93545506933
+  },
+  {
+    "id": "058850",
+    "company": "KTcs",
+    "sector": "기타 정보 서비스업",
+    "net_income": 22618649774,
+    "total_sales": 752188766089,
+    "operation_profit": 28631111911
+  },
+  {
+    "id": "093050",
+    "company": "LF",
+    "sector": "봉제의복 제조업",
+    "net_income": 80404193910,
+    "total_sales": 1284640677590,
+    "operation_profit": 90486715689,
+    "gross_profit": 735890893846
+  },
+  {
+    "id": "034220",
+    "company": "LG디스플레이",
+    "sector": "전자 부품 제조업",
+    "net_income": 654986000000,
+    "total_sales": 18609232000000,
+    "operation_profit": 348468000000,
+    "gross_profit": 2390760000000
+  },
+  {
+    "id": "079550",
+    "company": "LIG넥스원",
+    "sector": "무기 및 총포탄 제조업",
+    "net_income": 237621535740,
+    "total_sales": 2902171487878,
+    "operation_profit": 280764781963,
+    "gross_profit": 497700816860
+  },
+  {
+    "id": "000680",
+    "company": "LS네트웍스",
+    "sector": "상품 종합 도매업",
+    "net_income": 19167067477,
+    "total_sales": 1573080826391,
+    "operation_profit": 48384012756,
+    "gross_profit": 239967121582
+  },
+  {
+    "id": "023150",
+    "company": "MH에탄올",
+    "sector": "알코올 음료 제조업",
+    "net_income": 6476168528,
+    "total_sales": 71283591297,
+    "operation_profit": 8367114826,
+    "gross_profit": 26252909956
+  },
+  {
+    "id": "035420",
+    "company": "NAVER",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 1655743354775,
+    "total_sales": 8839922977621,
+    "operation_profit": 1597501912182
+  },
+  {
+    "id": "181710",
+    "company": "NHN",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 28998724484,
+    "total_sales": 1830618548804,
+    "operation_profit": 77204832093
+  },
+  {
+    "id": "034310",
+    "company": "NICE",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 79027692595,
+    "operation_profit": 160500028229,
+    "gross_profit": 2378260549845
+  },
+  {
+    "id": "030190",
+    "company": "NICE평가정보",
+    "sector": "기타 정보 서비스업",
+    "net_income": 64935281901,
+    "total_sales": 444568158503,
+    "operation_profit": 79541833701
+  },
+  {
+    "id": "008260",
+    "company": "NI스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": 14317822406,
+    "total_sales": 182100080820,
+    "operation_profit": 22405017322,
+    "gross_profit": 37272568024
+  },
+  {
+    "id": "178920",
+    "company": "PI첨단소재",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 25983357547,
+    "total_sales": 204981940903,
+    "operation_profit": 36407295070,
+    "gross_profit": 58300646236
+  },
+  {
+    "id": "001340",
+    "company": "PKC",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 5531011603,
+    "total_sales": 200605969557,
+    "operation_profit": 8743764580,
+    "gross_profit": 46318055595
+  },
+  {
+    "id": "005490",
+    "company": "POSCO홀딩스",
+    "sector": "1차 철강 제조업",
+    "net_income": 814994197422,
+    "total_sales": 52253404705039,
+    "operation_profit": 1814379685691,
+    "gross_profit": 4137295182842
+  },
+  {
+    "id": "010950",
+    "company": "S-Oil",
+    "sector": "석유 정제품 제조업",
+    "net_income": -48134000000,
+    "total_sales": 25454404000000,
+    "operation_profit": -136296000000,
+    "gross_profit": 443655000000
+  },
+  {
+    "id": "034120",
+    "company": "SBS",
+    "sector": "텔레비전 방송업",
+    "net_income": 9173958458,
+    "total_sales": 713722692716,
+    "operation_profit": 13168881810
+  },
+  {
+    "id": "003080",
+    "company": "SB성보",
+    "sector": "비료, 농약 및 살균ㆍ살충제 제조업",
+    "net_income": 46047814752,
+    "total_sales": 62591383707,
+    "operation_profit": -730735934,
+    "gross_profit": 15116664552
+  },
+  {
+    "id": "005090",
+    "company": "SGC에너지",
+    "sector": "전기업",
+    "net_income": -25951094351,
+    "total_sales": 1835881124887,
+    "operation_profit": 76992452352,
+    "gross_profit": 156400535683
+  },
+  {
+    "id": "001380",
+    "company": "SG글로벌",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 2508959124,
+    "total_sales": 66458344943,
+    "operation_profit": 4039825820,
+    "gross_profit": 9774445421
+  },
+  {
+    "id": "004060",
+    "company": "SG세계물산",
+    "sector": "상품 종합 도매업",
+    "net_income": 1626634593,
+    "total_sales": 97780613175,
+    "operation_profit": -1863625751,
+    "gross_profit": 39995619320
+  },
+  {
+    "id": "001770",
+    "company": "SHD",
+    "sector": "1차 철강 제조업",
+    "net_income": 1523928338,
+    "total_sales": 77267834800,
+    "operation_profit": 2271813901,
+    "gross_profit": 4826599515
+  },
+  {
+    "id": "002360",
+    "company": "SH에너지화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -7192960288,
+    "total_sales": 73488520101,
+    "operation_profit": -8962761319,
+    "gross_profit": -1873475351
+  },
+  {
+    "id": "009160",
+    "company": "SIMPAC",
+    "sector": "1차 철강 제조업",
+    "net_income": 15996116000,
+    "total_sales": 832585561000,
+    "operation_profit": 22321286000,
+    "gross_profit": 68695043000
+  },
+  {
+    "id": "033530",
+    "company": "SJG세종",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 70479851419,
+    "total_sales": 1403814316849,
+    "operation_profit": 84110756027,
+    "gross_profit": 197141816755
+  },
+  {
+    "id": "011790",
+    "company": "SKC",
+    "sector": "기타 화학제품 제조업",
+    "net_income": -220766722638,
+    "total_sales": 1411777712655,
+    "operation_profit": -197417842764,
+    "gross_profit": 4156582457
+  },
+  {
+    "id": "018670",
+    "company": "SK가스",
+    "sector": "기타 전문 도매업",
+    "net_income": 250791759877,
+    "total_sales": 5657605455142,
+    "operation_profit": 407036156805,
+    "gross_profit": 656919869351
+  },
+  {
+    "id": "001740",
+    "company": "SK네트웍스",
+    "sector": "기타 전문 도매업",
+    "net_income": 39851000000,
+    "total_sales": 5125623000000,
+    "operation_profit": 81856000000,
+    "gross_profit": 659134000000
+  },
+  {
+    "id": "210980",
+    "company": "SK디앤디",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": 29040316974,
+    "total_sales": 330804979777,
+    "operation_profit": 49618174765
+  },
+  {
+    "id": "302440",
+    "company": "SK바이오사이언스",
+    "sector": "기초 의약 물질 및 생물학적 제제 제조업",
+    "net_income": 232261485,
+    "total_sales": 467182034434,
+    "operation_profit": -71891988019,
+    "gross_profit": 70962137668
+  },
+  {
+    "id": "361610",
+    "company": "SK아이이테크놀로지",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": -80739014000,
+    "total_sales": 220046346000,
+    "operation_profit": -170575971000,
+    "gross_profit": -91661755000
+  },
+  {
+    "id": "100090",
+    "company": "SK오션플랜트",
+    "sector": "1차 철강 제조업",
+    "net_income": 23840765264,
+    "total_sales": 790916420225,
+    "operation_profit": 45845247381,
+    "gross_profit": 69155314198
+  },
+  {
+    "id": "096770",
+    "company": "SK이노베이션",
+    "sector": "석유 정제품 제조업",
+    "net_income": -1252087368000,
+    "total_sales": 60986398130000,
+    "operation_profit": 111267258000,
+    "gross_profit": 2873910719000
+  },
+  {
+    "id": "475150",
+    "company": "SK이터닉스",
+    "sector": "건물 건설업",
+    "net_income": 10225835873,
+    "total_sales": 137684790818,
+    "operation_profit": 11826105767,
+    "gross_profit": 29056240970
+  },
+  {
+    "id": "285130",
+    "company": "SK케미칼",
+    "sector": "합성고무 및 플라스틱 물질 제조업",
+    "net_income": 77203619998,
+    "total_sales": 1743405624808,
+    "operation_profit": 38890649077,
+    "gross_profit": 402575460055
+  },
+  {
+    "id": "000660",
+    "company": "SK하이닉스",
+    "sector": "반도체 제조업",
+    "net_income": 27701949000000,
+    "total_sales": 64320022000000,
+    "operation_profit": 28036745000000,
+    "gross_profit": 36114415000000
+  },
+  {
+    "id": "003570",
+    "company": "SNT다이내믹스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 62942071077,
+    "total_sales": 488385005697,
+    "operation_profit": 67190819248,
+    "gross_profit": 90851201538
+  },
+  {
+    "id": "064960",
+    "company": "SNT모티브",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 56707751920,
+    "total_sales": 714809529963,
+    "operation_profit": 71665387387,
+    "gross_profit": 126815839505
+  },
+  {
+    "id": "100840",
+    "company": "SNT에너지",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 44201503438,
+    "total_sales": 404235751636,
+    "operation_profit": 64561242191,
+    "gross_profit": 96764583692
+  },
+  {
+    "id": "011810",
+    "company": "STX",
+    "sector": "상품 종합 도매업",
+    "net_income": -40642000000,
+    "total_sales": 518871000000,
+    "operation_profit": -18088000000
+  },
+  {
+    "id": "465770",
+    "company": "STX그린로지스",
+    "sector": "해상 운송업",
+    "net_income": -16376698852,
+    "total_sales": 141302877378,
+    "operation_profit": -12520964102,
+    "gross_profit": -839924421
+  },
+  {
+    "id": "077970",
+    "company": "STX엔진",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 54310662589,
+    "total_sales": 544860389474,
+    "operation_profit": 64225369698,
+    "gross_profit": 106992179392
+  },
+  {
+    "id": "002820",
+    "company": "SUN&L",
+    "sector": "나무제품 제조업",
+    "net_income": -797020504,
+    "total_sales": 214610052002,
+    "operation_profit": -11799687305,
+    "gross_profit": 16536383174
+  },
+  {
+    "id": "002710",
+    "company": "TCC스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": -1835803337,
+    "total_sales": 459673106058,
+    "operation_profit": -6995227613,
+    "gross_profit": 17334150501
+  },
+  {
+    "id": "007980",
+    "company": "TP",
+    "sector": "봉제의복 제조업",
+    "net_income": 37636480834,
+    "total_sales": 818765669246,
+    "operation_profit": 52144222470,
+    "gross_profit": 136002599757
+  },
+  {
+    "id": "002900",
+    "company": "TYM",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 34101374147,
+    "total_sales": 712491766062,
+    "operation_profit": 55303329351,
+    "gross_profit": 177214031559
+  },
+  {
+    "id": "024070",
+    "company": "WISCOM",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": -40589602,
+    "total_sales": 79154000991,
+    "operation_profit": -1793495657,
+    "gross_profit": 2684729058
+  },
+  {
+    "id": "037270",
+    "company": "YG PLUS",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 21957474497,
+    "total_sales": 177222115868,
+    "operation_profit": 26977300965,
+    "gross_profit": 41375952307
+  },
+  {
+    "id": "000500",
+    "company": "가온전선",
+    "sector": "절연선 및 케이블 제조업",
+    "net_income": 48321676000,
+    "total_sales": 1932005107000,
+    "operation_profit": 71244064000,
+    "gross_profit": 166601929000
+  },
+  {
+    "id": "000860",
+    "company": "강남제비스코",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 5830950327,
+    "total_sales": 450074304637,
+    "operation_profit": 11528963486,
+    "gross_profit": 59547446198
+  },
+  {
+    "id": "035250",
+    "company": "강원랜드",
+    "sector": "유원지 및 기타 오락관련 서비스업",
+    "net_income": 250499630682,
+    "total_sales": 1111279843126,
+    "operation_profit": 205479297850,
+    "gross_profit": 306372060818
+  },
+  {
+    "id": "011420",
+    "company": "갤럭시아에스엠",
+    "sector": "스포츠 서비스업",
+    "net_income": 2378038018,
+    "total_sales": 25954566684,
+    "operation_profit": 2531748448,
+    "gross_profit": 10237827708
+  },
+  {
+    "id": "002100",
+    "company": "경농",
+    "sector": "비료, 농약 및 살균ㆍ살충제 제조업",
+    "net_income": 33317092330,
+    "total_sales": 296469881292,
+    "operation_profit": 43698833855,
+    "gross_profit": 101375128624
+  },
+  {
+    "id": "267290",
+    "company": "경동도시가스",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 24780516280,
+    "total_sales": 1313021453879,
+    "operation_profit": 24344213253,
+    "gross_profit": 95270056689
+  },
+  {
+    "id": "214390",
+    "company": "경보제약",
+    "sector": "기초 의약 물질 및 생물학적 제제 제조업",
+    "net_income": 614947863,
+    "total_sales": 192887730723,
+    "operation_profit": 3003075558,
+    "gross_profit": 75551351786
+  },
+  {
+    "id": "012610",
+    "company": "경인양행",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 2054689931,
+    "total_sales": 290477449876,
+    "operation_profit": 11975920377,
+    "gross_profit": 59098537579
+  },
+  {
+    "id": "009140",
+    "company": "경인전자",
+    "sector": "전자 부품 제조업",
+    "net_income": 3526570573,
+    "total_sales": 26944254426,
+    "operation_profit": 898689520,
+    "gross_profit": 7353394877
+  },
+  {
+    "id": "013580",
+    "company": "계룡건설산업",
+    "sector": "토목 건설업",
+    "net_income": 63289074462,
+    "total_sales": 2064368927927,
+    "operation_profit": 118804715482,
+    "gross_profit": 217740289511
+  },
+  {
+    "id": "012200",
+    "company": "계양전기",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": -5780969962,
+    "total_sales": 298359631810,
+    "operation_profit": -12269243956,
+    "gross_profit": 31692807699
+  },
+  {
+    "id": "002140",
+    "company": "고려산업",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 8287136132,
+    "total_sales": 224147884288,
+    "operation_profit": 11091284656,
+    "gross_profit": 40545714859
+  },
+  {
+    "id": "010130",
+    "company": "고려아연",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 562952646347,
+    "total_sales": 11817962465077,
+    "operation_profit": 803397600987,
+    "gross_profit": 1185960451982
+  },
+  {
+    "id": "002240",
+    "company": "고려제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 32621232204,
+    "total_sales": 1359740267285,
+    "operation_profit": 39852372419,
+    "gross_profit": 178075644481
+  },
+  {
+    "id": "009290",
+    "company": "광동제약",
+    "sector": "의약품 제조업",
+    "net_income": 17562758528,
+    "total_sales": 1247410374275,
+    "operation_profit": 18718411863,
+    "gross_profit": 220005896740
+  },
+  {
+    "id": "017040",
+    "company": "광명전기",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": -24477038576,
+    "total_sales": 73763648583,
+    "operation_profit": -3546780968,
+    "gross_profit": 8722565732
+  },
+  {
+    "id": "017900",
+    "company": "광전자",
+    "sector": "반도체 제조업",
+    "net_income": 2577120640,
+    "total_sales": 103148364247,
+    "operation_profit": 3018436786,
+    "gross_profit": 15030162872
+  },
+  {
+    "id": "037710",
+    "company": "광주신세계",
+    "sector": "종합 소매업",
+    "net_income": 29264994429,
+    "total_sales": 131374450081,
+    "operation_profit": 34751284326,
+    "gross_profit": 119399600523
+  },
+  {
+    "id": "339770",
+    "company": "교촌에프앤비",
+    "sector": "음ㆍ식료품 및 담배 도매업",
+    "net_income": 18725766296,
+    "total_sales": 385886286262,
+    "operation_profit": 31267518146,
+    "gross_profit": 115982443948
+  },
+  {
+    "id": "007690",
+    "company": "국도화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 20271475882,
+    "total_sales": 1022299477457,
+    "operation_profit": 40505266870,
+    "gross_profit": 176126908209
+  },
+  {
+    "id": "001140",
+    "company": "국보",
+    "sector": "도로 화물 운송업",
+    "net_income": -14213836599,
+    "total_sales": 3420159824,
+    "operation_profit": -4279125262,
+    "gross_profit": -659697576
+  },
+  {
+    "id": "002720",
+    "company": "국제약품",
+    "sector": "의약품 제조업",
+    "net_income": 6440482419,
+    "total_sales": 132160043116,
+    "operation_profit": 7727303669,
+    "gross_profit": 72043874500
+  },
+  {
+    "id": "083420",
+    "company": "그린케미칼",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 6586322369,
+    "total_sales": 235159057458,
+    "operation_profit": 8071007456,
+    "gross_profit": 19270046311
+  },
+  {
+    "id": "014530",
+    "company": "극동유화",
+    "sector": "석유 정제품 제조업",
+    "net_income": 2351444261,
+    "total_sales": 748274236710,
+    "operation_profit": 12787548070,
+    "gross_profit": 44783562584
+  },
+  {
+    "id": "014280",
+    "company": "금강공업",
+    "sector": "1차 철강 제조업",
+    "net_income": -6521579781,
+    "total_sales": 614966080008,
+    "operation_profit": 11061361082,
+    "gross_profit": 96717612585
+  },
+  {
+    "id": "008870",
+    "company": "금비",
+    "sector": "유리 및 유리제품 제조업",
+    "net_income": 2071356555,
+    "total_sales": 191150368304,
+    "operation_profit": 3600916193,
+    "gross_profit": 27266886035
+  },
+  {
+    "id": "001570",
+    "company": "금양",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -55806277124,
+    "total_sales": 81065401848,
+    "operation_profit": -38988696671,
+    "gross_profit": 13023006872
+  },
+  {
+    "id": "002990",
+    "company": "금호건설",
+    "sector": "건물 건설업",
+    "net_income": 18877460022,
+    "total_sales": 1522591614920,
+    "operation_profit": 37294395997,
+    "gross_profit": 87108850376
+  },
+  {
+    "id": "214330",
+    "company": "금호에이치티",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -2206256616,
+    "total_sales": 290181658118,
+    "operation_profit": 4190967330,
+    "gross_profit": 19317848129
+  },
+  {
+    "id": "001210",
+    "company": "금호전기",
+    "sector": "전구 및 조명장치 제조업",
+    "net_income": -1744940928,
+    "total_sales": 32757037425,
+    "operation_profit": -1272170449,
+    "gross_profit": 10480662271
+  },
+  {
+    "id": "073240",
+    "company": "금호타이어",
+    "sector": "고무제품 제조업",
+    "net_income": 200092330699,
+    "total_sales": 3541211826721,
+    "operation_profit": 430232790911,
+    "gross_profit": 1069896342299
+  },
+  {
+    "id": "013700",
+    "company": "까뮤이앤씨",
+    "sector": "건물 건설업",
+    "net_income": 11520890342,
+    "total_sales": 181862239785,
+    "operation_profit": 17576066430,
+    "gross_profit": 30076189417
+  },
+  {
+    "id": "004540",
+    "company": "깨끗한나라",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": -27142328537,
+    "total_sales": 385645543161,
+    "operation_profit": -13299631480,
+    "gross_profit": 50149301501
+  },
+  {
+    "id": "001260",
+    "company": "남광토건",
+    "sector": "토목 건설업",
+    "net_income": 4928938995,
+    "total_sales": 267362295133,
+    "operation_profit": 5425738187,
+    "gross_profit": 21686140084
+  },
+  {
+    "id": "008350",
+    "company": "남선알미늄",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 11657302471,
+    "total_sales": 190938375656,
+    "operation_profit": -2621698488,
+    "gross_profit": 13204944642
+  },
+  {
+    "id": "003920",
+    "company": "남양유업",
+    "sector": "동물성 및 식물성 유지 제조업",
+    "net_income": 4149887173,
+    "total_sales": 685188859211,
+    "operation_profit": 2707541662,
+    "gross_profit": 142507157841
+  },
+  {
+    "id": "025860",
+    "company": "남해화학",
+    "sector": "비료, 농약 및 살균ㆍ살충제 제조업",
+    "net_income": 32721589934,
+    "total_sales": 1224186004916,
+    "operation_profit": 50548086815,
+    "gross_profit": 128984064185
+  },
+  {
+    "id": "005720",
+    "company": "넥센",
+    "sector": "고무제품 제조업",
+    "net_income": 132119336716,
+    "total_sales": 2658701564482,
+    "operation_profit": 154476647322,
+    "gross_profit": 700592340534
+  },
+  {
+    "id": "002350",
+    "company": "넥센타이어",
+    "sector": "고무제품 제조업",
+    "net_income": 113968701654,
+    "total_sales": 2356551357646,
+    "operation_profit": 129834780274,
+    "gross_profit": 639727206704
+  },
+  {
+    "id": "092790",
+    "company": "넥스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": 39283090152,
+    "total_sales": 456724208097,
+    "operation_profit": 42983714282,
+    "gross_profit": 137841671912
+  },
+  {
+    "id": "251270",
+    "company": "넷마블",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 280964002792,
+    "total_sales": 2037473134234,
+    "operation_profit": 241720913259
+  },
+  {
+    "id": "090350",
+    "company": "노루페인트",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 17068982278,
+    "total_sales": 591576991780,
+    "operation_profit": 27618130132,
+    "gross_profit": 123058565604
+  },
+  {
+    "id": "006280",
+    "company": "녹십자",
+    "sector": "의약품 제조업",
+    "net_income": 73107330359,
+    "total_sales": 1493524566583,
+    "operation_profit": 64548626908,
+    "gross_profit": 413841152375
+  },
+  {
+    "id": "005250",
+    "company": "녹십자홀딩스",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 100054689756,
+    "total_sales": 1831989726808,
+    "operation_profit": 42957986979,
+    "gross_profit": 507890609353
+  },
+  {
+    "id": "058730",
+    "company": "다스코",
+    "sector": "구조용 금속제품, 탱크 및 증기발생기 제조업",
+    "net_income": -7120346527,
+    "total_sales": 177482409393,
+    "operation_profit": -4707578958,
+    "gross_profit": 19187309730
+  },
+  {
+    "id": "023590",
+    "company": "다우기술",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 895119089462,
+    "total_sales": 11808445054826,
+    "operation_profit": 1200774700687,
+    "gross_profit": 1819429447797
+  },
+  {
+    "id": "145210",
+    "company": "다이나믹디자인",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": -5579550418,
+    "total_sales": 57695898500,
+    "operation_profit": -160191447,
+    "gross_profit": 11177340804
+  },
+  {
+    "id": "483650",
+    "company": "달바글로벌",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 58566686099,
+    "total_sales": 359472989798,
+    "operation_profit": 75933601257,
+    "gross_profit": 274189849604
+  },
+  {
+    "id": "353200",
+    "company": "대덕전자",
+    "sector": "전자 부품 제조업",
+    "net_income": 21987249906,
+    "total_sales": 747406822312,
+    "operation_profit": 20112430393,
+    "gross_profit": 62234663384
+  },
+  {
+    "id": "000490",
+    "company": "대동",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 12203183171,
+    "total_sales": 1155449363782,
+    "operation_profit": 47265655674,
+    "gross_profit": 269845936758
+  },
+  {
+    "id": "005750",
+    "company": "대림바스",
+    "sector": "내화, 비내화 요업제품 제조업",
+    "net_income": 11936606797,
+    "total_sales": 225686061878,
+    "operation_profit": 15986398484,
+    "gross_profit": 62620212507
+  },
+  {
+    "id": "006570",
+    "company": "대림통상",
+    "sector": "기타 금속 가공제품 제조업",
+    "net_income": -10955512050,
+    "total_sales": 90818859026,
+    "operation_profit": -7542932538,
+    "gross_profit": 15166524987
+  },
+  {
+    "id": "001680",
+    "company": "대상",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 69005543162,
+    "total_sales": 3351878908209,
+    "operation_profit": 148973326294,
+    "gross_profit": 912749136073
+  },
+  {
+    "id": "128820",
+    "company": "대성산업",
+    "sector": "연료 소매업",
+    "net_income": -12346656836,
+    "total_sales": 1139081689264,
+    "operation_profit": 17316659152,
+    "gross_profit": 116701927500
+  },
+  {
+    "id": "117580",
+    "company": "대성에너지",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 19604521888,
+    "total_sales": 723498131951,
+    "operation_profit": 23122600243,
+    "gross_profit": 114030695689
+  },
+  {
+    "id": "016710",
+    "company": "대성홀딩스",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 16152894890,
+    "total_sales": 873649603651,
+    "operation_profit": 21389159552,
+    "gross_profit": 132327833287
+  },
+  {
+    "id": "009190",
+    "company": "대양금속",
+    "sector": "1차 철강 제조업",
+    "net_income": 3732141374,
+    "total_sales": 168626737887,
+    "operation_profit": 3940667280,
+    "gross_profit": 11932564489
+  },
+  {
+    "id": "014160",
+    "company": "대영포장",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": 3537662609,
+    "total_sales": 216269162032,
+    "operation_profit": 3324353467,
+    "gross_profit": 25645485934
+  },
+  {
+    "id": "003090",
+    "company": "대웅",
+    "sector": "의약품 제조업",
+    "net_income": 158504459392,
+    "total_sales": 1552038387948,
+    "operation_profit": 227013864176
+  },
+  {
+    "id": "069620",
+    "company": "대웅제약",
+    "sector": "의약품 제조업",
+    "net_income": 107206688933,
+    "total_sales": 1173768968589,
+    "operation_profit": 153445092169,
+    "gross_profit": 612162379628
+  },
+  {
+    "id": "006340",
+    "company": "대원전선",
+    "sector": "절연선 및 케이블 제조업",
+    "net_income": 12419677044,
+    "total_sales": 457478645354,
+    "operation_profit": 14828095272,
+    "gross_profit": 30732908287
+  },
+  {
+    "id": "003220",
+    "company": "대원제약",
+    "sector": "의약품 제조업",
+    "net_income": -16614677773,
+    "total_sales": 445627807729,
+    "operation_profit": -2370123926,
+    "gross_profit": 199222562146
+  },
+  {
+    "id": "024890",
+    "company": "대원화성",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": -3145803156,
+    "total_sales": 95257847020,
+    "operation_profit": 1633081902,
+    "gross_profit": 16616080245
+  },
+  {
+    "id": "002880",
+    "company": "대유에이텍",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 8952887542,
+    "total_sales": 459616356400,
+    "operation_profit": 27051383264,
+    "gross_profit": 52318041430
+  },
+  {
+    "id": "012800",
+    "company": "대창",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 817007796,
+    "total_sales": 1069352436248,
+    "operation_profit": 21378119025,
+    "gross_profit": 47177532098
+  },
+  {
+    "id": "015230",
+    "company": "대창단조",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 21175772667,
+    "total_sales": 258715297096,
+    "operation_profit": 30573237948,
+    "gross_profit": 53145401111
+  },
+  {
+    "id": "001070",
+    "company": "대한방직",
+    "sector": "직물 직조 및 직물제품 제조업",
+    "net_income": -888929852,
+    "total_sales": 117921774794,
+    "operation_profit": -354798152,
+    "gross_profit": 11580354610
+  },
+  {
+    "id": "006650",
+    "company": "대한유화",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 53191872700,
+    "total_sales": 2498324294990,
+    "operation_profit": 28378757132,
+    "gross_profit": 76475855443
+  },
+  {
+    "id": "001440",
+    "company": "대한전선",
+    "sector": "절연선 및 케이블 제조업",
+    "net_income": 47419348599,
+    "total_sales": 2626786411898,
+    "operation_profit": 85199583597,
+    "gross_profit": 188644241523
+  },
+  {
+    "id": "084010",
+    "company": "대한제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 31446667241,
+    "total_sales": 958487660188,
+    "operation_profit": 17790224233,
+    "gross_profit": 69982318935
+  },
+  {
+    "id": "001790",
+    "company": "대한제당",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 58347462000,
+    "total_sales": 1027273808000,
+    "operation_profit": 41598346000,
+    "gross_profit": 116710207000
+  },
+  {
+    "id": "001130",
+    "company": "대한제분",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 57627442985,
+    "total_sales": 1024748131946,
+    "operation_profit": 47257653780,
+    "gross_profit": 202914185492
+  },
+  {
+    "id": "003490",
+    "company": "대한항공",
+    "sector": "항공 여객 운송업",
+    "net_income": 629009074389,
+    "total_sales": 18729457259137,
+    "operation_profit": 958673971312,
+    "gross_profit": 2852909513679
+  },
+  {
+    "id": "005880",
+    "company": "대한해운",
+    "sector": "해상 운송업",
+    "net_income": 154552349667,
+    "total_sales": 980726117590,
+    "operation_profit": 156252202004,
+    "gross_profit": 217779391444
+  },
+  {
+    "id": "003830",
+    "company": "대한화섬",
+    "sector": "화학섬유 제조업",
+    "net_income": 9881741725,
+    "total_sales": 82815193670,
+    "operation_profit": -3025564078,
+    "gross_profit": 3362703239
+  },
+  {
+    "id": "016090",
+    "company": "대현",
+    "sector": "봉제의복 제조업",
+    "net_income": 3949545357,
+    "total_sales": 162821139454,
+    "operation_profit": 138135321,
+    "gross_profit": 86694769778
+  },
+  {
+    "id": "069460",
+    "company": "대호에이엘",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 3918822553,
+    "total_sales": 161263098309,
+    "operation_profit": 5544900545,
+    "gross_profit": 13725046684
+  },
+  {
+    "id": "475560",
+    "company": "더본코리아",
+    "sector": "상품 종합 도매업",
+    "net_income": -20136692504,
+    "total_sales": 272283020779,
+    "operation_profit": -20643191205,
+    "gross_profit": 65377393277
+  },
+  {
+    "id": "192080",
+    "company": "더블유게임즈",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 135183808344,
+    "total_sales": 520079206711,
+    "operation_profit": 168223588768
+  },
+  {
+    "id": "012510",
+    "company": "더존비즈온",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 52998420185,
+    "total_sales": 319158068145,
+    "operation_profit": 81633404262,
+    "gross_profit": 153631184916
+  },
+  {
+    "id": "004830",
+    "company": "덕성",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 6003758120,
+    "total_sales": 115900091880,
+    "operation_profit": 7453373124,
+    "gross_profit": 20032803705
+  },
+  {
+    "id": "145720",
+    "company": "덴티움",
+    "sector": "의료용 기기 제조업",
+    "net_income": 21363803424,
+    "total_sales": 237305822384,
+    "operation_profit": 37596273482,
+    "gross_profit": 151468675071
+  },
+  {
+    "id": "002150",
+    "company": "도화엔지니어링",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 5545814428,
+    "total_sales": 505100917662,
+    "operation_profit": 16021375643
+  },
+  {
+    "id": "023450",
+    "company": "동남합성",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 5088615687,
+    "total_sales": 147597651985,
+    "operation_profit": 7265793977,
+    "gross_profit": 14133882421
+  },
+  {
+    "id": "004140",
+    "company": "동방",
+    "sector": "기타 운송관련 서비스업",
+    "net_income": 18069120123,
+    "total_sales": 663399766593,
+    "operation_profit": 27644306411,
+    "gross_profit": 60835342711
+  },
+  {
+    "id": "007590",
+    "company": "동방아그로",
+    "sector": "비료, 농약 및 살균ㆍ살충제 제조업",
+    "net_income": 11472804034,
+    "total_sales": 163865219378,
+    "operation_profit": 15054336406,
+    "gross_profit": 42155563959
+  },
+  {
+    "id": "005960",
+    "company": "동부건설",
+    "sector": "토목 건설업",
+    "net_income": 22284110594,
+    "total_sales": 1234914275706,
+    "operation_profit": 17320163086,
+    "gross_profit": 156104131336
+  },
+  {
+    "id": "026960",
+    "company": "동서",
+    "sector": "음ㆍ식료품 및 담배 도매업",
+    "net_income": 119292536290,
+    "total_sales": 403003151851,
+    "operation_profit": 36965195212,
+    "gross_profit": 68108519688
+  },
+  {
+    "id": "002210",
+    "company": "동성제약",
+    "sector": "의약품 제조업",
+    "net_income": -19982513815,
+    "total_sales": 68108551836,
+    "operation_profit": -3000261325,
+    "gross_profit": 29956415843
+  },
+  {
+    "id": "102260",
+    "company": "동성케미컬",
+    "sector": "합성고무 및 플라스틱 물질 제조업",
+    "net_income": 56988843944,
+    "total_sales": 913722642217,
+    "operation_profit": 81990915914,
+    "gross_profit": 166119829651
+  },
+  {
+    "id": "170900",
+    "company": "동아에스티",
+    "sector": "의약품 제조업",
+    "net_income": -25663015596,
+    "total_sales": 592009516384,
+    "operation_profit": 3359806738,
+    "gross_profit": 270103484850
+  },
+  {
+    "id": "028100",
+    "company": "동아지질",
+    "sector": "기반조성 및 시설물 축조관련 전문공사업",
+    "net_income": 12104535796,
+    "total_sales": 340275427293,
+    "operation_profit": 12951947170,
+    "gross_profit": 20634107290
+  },
+  {
+    "id": "030720",
+    "company": "동원수산",
+    "sector": "어로 어업",
+    "net_income": 6266596387,
+    "total_sales": 133618032702,
+    "operation_profit": 7632301941,
+    "gross_profit": 18907428190
+  },
+  {
+    "id": "014820",
+    "company": "동원시스템즈",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 41746083365,
+    "total_sales": 1059522532074,
+    "operation_profit": 58652321928,
+    "gross_profit": 121553895230
+  },
+  {
+    "id": "111380",
+    "company": "동인기연",
+    "sector": "가죽, 가방 및 유사 제품 제조업",
+    "net_income": 4353583243,
+    "total_sales": 174409019681,
+    "operation_profit": 14080774340,
+    "gross_profit": 50820334123
+  },
+  {
+    "id": "163560",
+    "company": "동일고무벨트",
+    "sector": "고무제품 제조업",
+    "net_income": 5523379739,
+    "total_sales": 265239554820,
+    "operation_profit": 11494733637,
+    "gross_profit": 48289410200
+  },
+  {
+    "id": "004890",
+    "company": "동일산업",
+    "sector": "1차 철강 제조업",
+    "net_income": 1962705471,
+    "total_sales": 269473717431,
+    "operation_profit": -2045291127,
+    "gross_profit": 11482806466
+  },
+  {
+    "id": "002690",
+    "company": "동일제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 7109322039,
+    "total_sales": 116146247746,
+    "operation_profit": -738399579,
+    "gross_profit": 4343764411
+  },
+  {
+    "id": "000020",
+    "company": "동화약품",
+    "sector": "의약품 제조업",
+    "net_income": 5575433419,
+    "total_sales": 372698029425,
+    "operation_profit": 4253155719,
+    "gross_profit": 166416305945
+  },
+  {
+    "id": "454910",
+    "company": "두산로보틱스",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": -38841749857,
+    "total_sales": 19976717829,
+    "operation_profit": -43022150772,
+    "gross_profit": 3102606634
+  },
+  {
+    "id": "336260",
+    "company": "두산퓨얼셀",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": -30185411016,
+    "total_sales": 319022396396,
+    "operation_profit": -29067601427,
+    "gross_profit": 3042490976
+  },
+  {
+    "id": "016740",
+    "company": "두올",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 32188469469,
+    "total_sales": 602467388529,
+    "operation_profit": 45665392738,
+    "gross_profit": 111615118577
+  },
+  {
+    "id": "192650",
+    "company": "드림텍",
+    "sector": "전자 부품 제조업",
+    "net_income": 8913351108,
+    "total_sales": 955107571601,
+    "operation_profit": 29319883356,
+    "gross_profit": 105342747462
+  },
+  {
+    "id": "024090",
+    "company": "디씨엠",
+    "sector": "1차 철강 제조업",
+    "net_income": 8523183393,
+    "total_sales": 171114701512,
+    "operation_profit": 6986298520,
+    "gross_profit": 15458940803
+  },
+  {
+    "id": "092200",
+    "company": "디아이씨",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 4615086206,
+    "total_sales": 588534853742,
+    "operation_profit": 21283609045,
+    "gross_profit": 59504165770
+  },
+  {
+    "id": "024900",
+    "company": "디와이덕양",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -739044323,
+    "total_sales": 1299247488872,
+    "operation_profit": -1154027425,
+    "gross_profit": 14443729251
+  },
+  {
+    "id": "210540",
+    "company": "디와이파워",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 22047202761,
+    "total_sales": 296433907844,
+    "operation_profit": 25622410184,
+    "gross_profit": 39465099282
+  },
+  {
+    "id": "032350",
+    "company": "롯데관광개발",
+    "sector": "여행사 및 기타 여행 보조 서비스업",
+    "net_income": -11281532662,
+    "total_sales": 466299717711,
+    "operation_profit": 99096120069
+  },
+  {
+    "id": "023530",
+    "company": "롯데쇼핑",
+    "sector": "종합 소매업",
+    "net_income": -40949007670,
+    "total_sales": 10216529708092,
+    "operation_profit": 319385336968,
+    "gross_profit": 4887631250530
+  },
+  {
+    "id": "020150",
+    "company": "롯데에너지머티리얼즈",
+    "sector": "전자 부품 제조업",
+    "net_income": -130728460932,
+    "total_sales": 506626789691,
+    "operation_profit": -111408629501,
+    "gross_profit": -51848138333
+  },
+  {
+    "id": "280360",
+    "company": "롯데웰푸드",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 88368229813,
+    "total_sales": 3196188354782,
+    "operation_profit": 119982255643,
+    "gross_profit": 899088625312
+  },
+  {
+    "id": "286940",
+    "company": "롯데이노베이트",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 10080850768,
+    "total_sales": 843071737444,
+    "operation_profit": 21599998225,
+    "gross_profit": 77404028395
+  },
+  {
+    "id": "004000",
+    "company": "롯데정밀화학",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 79127026358,
+    "total_sales": 1313626582181,
+    "operation_profit": 55062703347,
+    "gross_profit": 150107198043
+  },
+  {
+    "id": "005300",
+    "company": "롯데칠성음료",
+    "sector": "비알코올 음료 및 얼음 제조업",
+    "net_income": 95138410108,
+    "total_sales": 3076806877537,
+    "operation_profit": 179195623196,
+    "gross_profit": 1048451597616
+  },
+  {
+    "id": "011170",
+    "company": "롯데케미칼",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -881141077821,
+    "total_sales": 13773062125492,
+    "operation_profit": -509641541799,
+    "gross_profit": 386468217184
+  },
+  {
+    "id": "071840",
+    "company": "롯데하이마트",
+    "sector": "가전제품 및 정보 통신장비 소매업",
+    "net_income": 11478729424,
+    "total_sales": 1775691478357,
+    "operation_profit": 18378333306,
+    "gross_profit": 534236072803
+  },
+  {
+    "id": "027740",
+    "company": "마니커",
+    "sector": "도축, 육류 가공 및 저장 처리업",
+    "net_income": -1637573982,
+    "total_sales": 266915471019,
+    "operation_profit": -16768568,
+    "gross_profit": 21053139251
+  },
+  {
+    "id": "001080",
+    "company": "만호제강",
+    "sector": "1차 철강 제조업",
+    "net_income": -3789414595,
+    "total_sales": 113397145565,
+    "operation_profit": -11409952046,
+    "gross_profit": 4004349066
+  },
+  {
+    "id": "090370",
+    "company": "메타랩스",
+    "sector": "봉제의복 제조업",
+    "net_income": -6255252672,
+    "total_sales": 50193804846,
+    "operation_profit": -6168224037,
+    "gross_profit": 5813680325
+  },
+  {
+    "id": "118000",
+    "company": "메타케어",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 3969094389,
+    "total_sales": 22507199979,
+    "operation_profit": 1467887149,
+    "gross_profit": 7577009696
+  },
+  {
+    "id": "009900",
+    "company": "명신산업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 63515752863,
+    "total_sales": 1201842664312,
+    "operation_profit": 92105065803,
+    "gross_profit": 149418231846
+  },
+  {
+    "id": "317450",
+    "company": "명인제약",
+    "sector": "의약품 제조업",
+    "net_income": 58182375319,
+    "total_sales": 215162686788,
+    "operation_profit": 68828222044,
+    "gross_profit": 130333898123
+  },
+  {
+    "id": "012690",
+    "company": "모나리자",
+    "sector": "기타 종이 및 판지 제품 제조업",
+    "net_income": 415492339,
+    "total_sales": 92460584606,
+    "operation_profit": 65018460,
+    "gross_profit": 19096877512
+  },
+  {
+    "id": "005360",
+    "company": "모나미",
+    "sector": "생활용품 도매업",
+    "net_income": -7410557563,
+    "total_sales": 97932841877,
+    "operation_profit": -4495493066,
+    "gross_profit": 28424867651
+  },
+  {
+    "id": "070960",
+    "company": "모나용평",
+    "sector": "일반 및 생활 숙박시설 운영업",
+    "net_income": 9324616740,
+    "total_sales": 208038101183,
+    "operation_profit": 23766966135,
+    "gross_profit": 42639852654
+  },
+  {
+    "id": "009580",
+    "company": "무림P&P",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": -15890192772,
+    "total_sales": 525158036840,
+    "operation_profit": -18868353310,
+    "gross_profit": 25645338299
+  },
+  {
+    "id": "009200",
+    "company": "무림페이퍼",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": -1770446202,
+    "total_sales": 927426196671,
+    "operation_profit": 11432660731,
+    "gross_profit": 90358675158
+  },
+  {
+    "id": "033920",
+    "company": "무학",
+    "sector": "알코올 음료 제조업",
+    "net_income": 40806072370,
+    "total_sales": 108963969498,
+    "operation_profit": 8073735846,
+    "gross_profit": 49094471062
+  },
+  {
+    "id": "008420",
+    "company": "문배철강",
+    "sector": "1차 철강 제조업",
+    "net_income": 4663185540,
+    "total_sales": 100562942465,
+    "operation_profit": -569935858,
+    "gross_profit": 4379302525
+  },
+  {
+    "id": "025560",
+    "company": "미래산업",
+    "sector": "측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외",
+    "net_income": 7816767259,
+    "total_sales": 34182896020,
+    "operation_profit": 7331238096,
+    "gross_profit": 13825846267
+  },
+  {
+    "id": "007120",
+    "company": "미래아이앤지",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": -2626758609,
+    "total_sales": 9821125207,
+    "operation_profit": 2342190405,
+    "gross_profit": 4980405068
+  },
+  {
+    "id": "081660",
+    "company": "미스토홀딩스",
+    "sector": "생활용품 도매업",
+    "net_income": 392553906273,
+    "total_sales": 3553414046913,
+    "operation_profit": 476429332365,
+    "gross_profit": 1905506517553
+  },
+  {
+    "id": "002840",
+    "company": "미원상사",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 30754576716,
+    "total_sales": 332546726241,
+    "operation_profit": 34592196359,
+    "gross_profit": 63967006464
+  },
+  {
+    "id": "268280",
+    "company": "미원에스씨",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 46070485940,
+    "total_sales": 405988740611,
+    "operation_profit": 55383575930,
+    "gross_profit": 88138352067
+  },
+  {
+    "id": "134380",
+    "company": "미원화학",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 19749300414,
+    "total_sales": 207167993401,
+    "operation_profit": 24051030211,
+    "gross_profit": 39900220110
+  },
+  {
+    "id": "003650",
+    "company": "미창석유공업",
+    "sector": "석유 정제품 제조업",
+    "net_income": 48944841425,
+    "total_sales": 311210184173,
+    "operation_profit": 27251481572,
+    "gross_profit": 37136015435
+  },
+  {
+    "id": "377740",
+    "company": "바이오노트",
+    "sector": "의료용품 및 기타 의약 관련제품 제조업",
+    "net_income": 106499814644,
+    "total_sales": 90351032769,
+    "operation_profit": 15865565733,
+    "gross_profit": 50506809811
+  },
+  {
+    "id": "035150",
+    "company": "백산",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 28709803107,
+    "total_sales": 390685734648,
+    "operation_profit": 46173501819,
+    "gross_profit": 88068881266
+  },
+  {
+    "id": "002410",
+    "company": "범양건영",
+    "sector": "건물 건설업",
+    "net_income": -34858263900,
+    "total_sales": 65662597287,
+    "operation_profit": -26855266407,
+    "gross_profit": -17543407112
+  },
+  {
+    "id": "007210",
+    "company": "벽산",
+    "sector": "기타 비금속 광물제품 제조업",
+    "net_income": 24536250535,
+    "total_sales": 448919285262,
+    "operation_profit": 17045248064,
+    "gross_profit": 84122199969
+  },
+  {
+    "id": "002760",
+    "company": "보락",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 2309100427,
+    "total_sales": 38714308102,
+    "operation_profit": 2180124662,
+    "gross_profit": 6278922359
+  },
+  {
+    "id": "003850",
+    "company": "보령",
+    "sector": "의약품 제조업",
+    "net_income": 43212310698,
+    "total_sales": 772078884887,
+    "operation_profit": 65715403948,
+    "gross_profit": 287385828607
+  },
+  {
+    "id": "000890",
+    "company": "보해양조",
+    "sector": "알코올 음료 제조업",
+    "net_income": 2503964604,
+    "total_sales": 67820424778,
+    "operation_profit": 3575552073,
+    "gross_profit": 21769008416
+  },
+  {
+    "id": "003000",
+    "company": "부광약품",
+    "sector": "의약품 제조업",
+    "net_income": 7778413671,
+    "total_sales": 138199973413,
+    "operation_profit": 6005845421,
+    "gross_profit": 59129078079
+  },
+  {
+    "id": "026940",
+    "company": "부국철강",
+    "sector": "1차 철강 제조업",
+    "net_income": 1479599300,
+    "total_sales": 135196245485,
+    "operation_profit": 30560075,
+    "gross_profit": 3863331196
+  },
+  {
+    "id": "011390",
+    "company": "부산산업",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": -4850162044,
+    "total_sales": 77623250817,
+    "operation_profit": -1649806026,
+    "gross_profit": 9996824804
+  },
+  {
+    "id": "005030",
+    "company": "부산주공",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -4607628407,
+    "total_sales": 153674146132,
+    "operation_profit": 1132970665,
+    "gross_profit": 14816173704
+  },
+  {
+    "id": "006740",
+    "company": "블루산업개발",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": -10695683640,
+    "total_sales": 69038950630,
+    "operation_profit": -10463605515,
+    "gross_profit": 1452440420
+  },
+  {
+    "id": "002070",
+    "company": "비비안",
+    "sector": "봉제의복 제조업",
+    "net_income": -69792751,
+    "total_sales": 193673678143,
+    "operation_profit": 1919564338,
+    "gross_profit": 110603548155
+  },
+  {
+    "id": "100220",
+    "company": "비상교육",
+    "sector": "서적, 잡지 및 기타 인쇄물 출판업",
+    "net_income": -572259301,
+    "total_sales": 174386760588,
+    "operation_profit": -4773122175,
+    "gross_profit": 109433677289
+  },
+  {
+    "id": "090460",
+    "company": "비에이치",
+    "sector": "전자 부품 제조업",
+    "net_income": 18274107681,
+    "total_sales": 1284623316478,
+    "operation_profit": 25156619543,
+    "gross_profit": 93055616014
+  },
+  {
+    "id": "005180",
+    "company": "빙그레",
+    "sector": "동물성 및 식물성 유지 제조업",
+    "net_income": 81220069784,
+    "total_sales": 1197340878205,
+    "operation_profit": 99210934685,
+    "gross_profit": 357171908117
+  },
+  {
+    "id": "003960",
+    "company": "사조대림",
+    "sector": "수산물 가공 및 저장 처리업",
+    "net_income": 53056094993,
+    "total_sales": 2651222354737,
+    "operation_profit": 78556879776,
+    "gross_profit": 327374732159
+  },
+  {
+    "id": "008040",
+    "company": "사조동아원",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 26953161336,
+    "total_sales": 513310101583,
+    "operation_profit": 33073742393,
+    "gross_profit": 67760743573
+  },
+  {
+    "id": "007160",
+    "company": "사조산업",
+    "sector": "수산물 가공 및 저장 처리업",
+    "net_income": 53826611565,
+    "total_sales": 516955600514,
+    "operation_profit": 38940880698,
+    "gross_profit": 69279148195
+  },
+  {
+    "id": "014710",
+    "company": "사조씨푸드",
+    "sector": "수산물 가공 및 저장 처리업",
+    "net_income": 12986162408,
+    "total_sales": 173511045273,
+    "operation_profit": 10822663448,
+    "gross_profit": 22294056413
+  },
+  {
+    "id": "006090",
+    "company": "사조오양",
+    "sector": "수산물 가공 및 저장 처리업",
+    "net_income": 8786052896,
+    "total_sales": 313321082146,
+    "operation_profit": 13303754859,
+    "gross_profit": 34990665631
+  },
+  {
+    "id": "062040",
+    "company": "산일전기",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 105943396934,
+    "total_sales": 359819062874,
+    "operation_profit": 126272887846,
+    "gross_profit": 169397831774
+  },
+  {
+    "id": "001470",
+    "company": "삼부토건",
+    "sector": "토목 건설업",
+    "net_income": -60668190333,
+    "total_sales": 85678551176,
+    "operation_profit": -44776463869,
+    "gross_profit": 6705004689
+  },
+  {
+    "id": "006400",
+    "company": "삼성SDI",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": -377025924948,
+    "total_sales": 9408044432095,
+    "operation_profit": -1423194390649,
+    "gross_profit": 651298824367
+  },
+  {
+    "id": "006660",
+    "company": "삼성공조",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 7513366161,
+    "total_sales": 92814798547,
+    "operation_profit": 4649189039,
+    "gross_profit": 12803017763
+  },
+  {
+    "id": "028260",
+    "company": "삼성물산",
+    "sector": "기타 전문 도매업",
+    "net_income": 2348362816889,
+    "total_sales": 29909807809824,
+    "operation_profit": 2470464878334,
+    "gross_profit": 5604948987884
+  },
+  {
+    "id": "207940",
+    "company": "삼성바이오로직스",
+    "sector": "기초 의약 물질 및 생물학적 제제 제조업",
+    "net_income": 1274399414490,
+    "total_sales": 4248399194571,
+    "operation_profit": 1691136537002,
+    "gross_profit": 2430662004022
+  },
+  {
+    "id": "018260",
+    "company": "삼성에스디에스",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 594762783414,
+    "total_sales": 10393065779281,
+    "operation_profit": 731001959439,
+    "gross_profit": 1566129198524
+  },
+  {
+    "id": "009150",
+    "company": "삼성전기",
+    "sector": "전자 부품 제조업",
+    "net_income": 503689930802,
+    "total_sales": 8412313988630,
+    "operation_profit": 673835267071,
+    "gross_profit": 1674768366809
+  },
+  {
+    "id": "001360",
+    "company": "삼성제약",
+    "sector": "의약품 제조업",
+    "net_income": 70649869419,
+    "total_sales": 34257473447,
+    "operation_profit": -12651288759,
+    "gross_profit": 10681111801
+  },
+  {
+    "id": "068290",
+    "company": "삼성출판사",
+    "sector": "서적, 잡지 및 기타 인쇄물 출판업",
+    "net_income": 4015479737,
+    "total_sales": 29390080012,
+    "operation_profit": -500786838,
+    "gross_profit": 15662440608
+  },
+  {
+    "id": "006110",
+    "company": "삼아알미늄",
+    "sector": "1차 비철금속 제조업",
+    "net_income": -13204423901,
+    "total_sales": 200212841705,
+    "operation_profit": -10158092829,
+    "gross_profit": 2959282617
+  },
+  {
+    "id": "145990",
+    "company": "삼양사",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 102126608180,
+    "total_sales": 1959649204933,
+    "operation_profit": 101035618263,
+    "gross_profit": 375569454359
+  },
+  {
+    "id": "003230",
+    "company": "삼양식품",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 293050807482,
+    "total_sales": 1714106512699,
+    "operation_profit": 384976143640,
+    "gross_profit": 761627502016
+  },
+  {
+    "id": "002170",
+    "company": "삼양통상",
+    "sector": "가죽, 가방 및 유사 제품 제조업",
+    "net_income": 15865872498,
+    "total_sales": 134642748266,
+    "operation_profit": 13967554314,
+    "gross_profit": 20036257150
+  },
+  {
+    "id": "272550",
+    "company": "삼양패키징",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 22247688124,
+    "total_sales": 337408868933,
+    "operation_profit": 28245507976,
+    "gross_profit": 68931056096
+  },
+  {
+    "id": "003720",
+    "company": "삼영",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 8312125468,
+    "total_sales": 110569765125,
+    "operation_profit": 10195199048,
+    "gross_profit": 20541392831
+  },
+  {
+    "id": "002810",
+    "company": "삼영무역",
+    "sector": "기타 전문 도매업",
+    "net_income": 50678046400,
+    "total_sales": 346318050345,
+    "operation_profit": 13799729111,
+    "gross_profit": 39032017260
+  },
+  {
+    "id": "005680",
+    "company": "삼영전자공업",
+    "sector": "전자 부품 제조업",
+    "net_income": 12502708576,
+    "total_sales": 115237253802,
+    "operation_profit": 8650270410,
+    "gross_profit": 21821330443
+  },
+  {
+    "id": "023000",
+    "company": "삼원강재",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 8639718149,
+    "total_sales": 276796005228,
+    "operation_profit": 8209484231,
+    "gross_profit": 18716455829
+  },
+  {
+    "id": "004380",
+    "company": "삼익THK",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": -41225273909,
+    "total_sales": 165814368090,
+    "operation_profit": -24056705198,
+    "gross_profit": 5940116747
+  },
+  {
+    "id": "002450",
+    "company": "삼익악기",
+    "sector": "악기 제조업",
+    "net_income": 21019179670,
+    "total_sales": 169673447852,
+    "operation_profit": 3801087113,
+    "gross_profit": 43371327599
+  },
+  {
+    "id": "004440",
+    "company": "삼일씨엔에스",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": -442220200,
+    "total_sales": 163795091746,
+    "operation_profit": 1575722204,
+    "gross_profit": 17571874841
+  },
+  {
+    "id": "000520",
+    "company": "삼일제약",
+    "sector": "의약품 제조업",
+    "net_income": -23503624091,
+    "total_sales": 157249610487,
+    "operation_profit": -13639920870,
+    "gross_profit": 57670005961
+  },
+  {
+    "id": "009770",
+    "company": "삼정펄프",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": 27964298693,
+    "total_sales": 117229318939,
+    "operation_profit": 1225254957,
+    "gross_profit": 11140375464
+  },
+  {
+    "id": "005500",
+    "company": "삼진제약",
+    "sector": "의약품 제조업",
+    "net_income": 15237981609,
+    "total_sales": 228603295297,
+    "operation_profit": 22565190377,
+    "gross_profit": 92935327480
+  },
+  {
+    "id": "004690",
+    "company": "삼천리",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 128418024836,
+    "total_sales": 3829131769630,
+    "operation_profit": 148891428991,
+    "gross_profit": 458690477997
+  },
+  {
+    "id": "010960",
+    "company": "삼호개발",
+    "sector": "기반조성 및 시설물 축조관련 전문공사업",
+    "net_income": 17010255904,
+    "total_sales": 298413185722,
+    "operation_profit": 12829407493,
+    "gross_profit": 28066466840
+  },
+  {
+    "id": "009470",
+    "company": "삼화전기",
+    "sector": "전자 부품 제조업",
+    "net_income": 8704936397,
+    "total_sales": 174945760177,
+    "operation_profit": 9594611607,
+    "gross_profit": 33275571972
+  },
+  {
+    "id": "011230",
+    "company": "삼화전자공업",
+    "sector": "영상 및 음향 기기 제조업",
+    "net_income": -5903202141,
+    "total_sales": 23019926582,
+    "operation_profit": -4961477446,
+    "gross_profit": -364228006
+  },
+  {
+    "id": "001820",
+    "company": "삼화콘덴서공업",
+    "sector": "전자 부품 제조업",
+    "net_income": 10961074016,
+    "total_sales": 223704757198,
+    "operation_profit": 13040027996,
+    "gross_profit": 35666553693
+  },
+  {
+    "id": "000390",
+    "company": "삼화페인트공업",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 7018612688,
+    "total_sales": 466280013442,
+    "operation_profit": 5915618796,
+    "gross_profit": 103416513636
+  },
+  {
+    "id": "041650",
+    "company": "상신브레이크",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -17051328670,
+    "total_sales": 422430094007,
+    "operation_profit": -4236623631,
+    "gross_profit": 68592648288
+  },
+  {
+    "id": "075180",
+    "company": "새론오토모티브",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -625598080,
+    "total_sales": 102460501902,
+    "operation_profit": -627660039,
+    "gross_profit": 7064069100
+  },
+  {
+    "id": "248170",
+    "company": "샘표식품",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 18022793134,
+    "total_sales": 308358791072,
+    "operation_profit": 21536547312,
+    "gross_profit": 121259271284
+  },
+  {
+    "id": "200880",
+    "company": "서연이화",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 61604055257,
+    "total_sales": 3362356018654,
+    "operation_profit": 140599467405,
+    "gross_profit": 493129590921
+  },
+  {
+    "id": "017390",
+    "company": "서울도시가스",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 25270610104,
+    "total_sales": 1284264386025,
+    "operation_profit": 13890459474,
+    "gross_profit": 144457378068
+  },
+  {
+    "id": "004410",
+    "company": "서울식품공업",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": -1559787328,
+    "total_sales": 51765994331,
+    "operation_profit": -474672236,
+    "gross_profit": 9847665087
+  },
+  {
+    "id": "021050",
+    "company": "서원",
+    "sector": "금속 주조업",
+    "net_income": -2485972899,
+    "total_sales": 1248097447920,
+    "operation_profit": 22340240183,
+    "gross_profit": 54537712139
+  },
+  {
+    "id": "008490",
+    "company": "서흥",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 40983642473,
+    "total_sales": 555908718720,
+    "operation_profit": 45385681503,
+    "gross_profit": 99968709256
+  },
+  {
+    "id": "007610",
+    "company": "선도전기",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 2918221490,
+    "total_sales": 19320307285,
+    "operation_profit": -1069549567,
+    "gross_profit": 2747917925
+  },
+  {
+    "id": "136490",
+    "company": "선진",
+    "sector": "null",
+    "net_income": 110669881475,
+    "total_sales": 1392444287592,
+    "operation_profit": 138743109019,
+    "gross_profit": 293324650746
+  },
+  {
+    "id": "014910",
+    "company": "성문전자",
+    "sector": "전자 부품 제조업",
+    "net_income": 1647585008,
+    "total_sales": 39529694757,
+    "operation_profit": 1305131218,
+    "gross_profit": 6931868140
+  },
+  {
+    "id": "004980",
+    "company": "성신양회",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 14065947284,
+    "total_sales": 882110033068,
+    "operation_profit": 28770930521,
+    "gross_profit": 121430421669
+  },
+  {
+    "id": "011300",
+    "company": "성안머티리얼스",
+    "sector": "직물 직조 및 직물제품 제조업",
+    "net_income": -3098216759,
+    "total_sales": 17227947122,
+    "operation_profit": 1819484288,
+    "gross_profit": 3053749113
+  },
+  {
+    "id": "000180",
+    "company": "성창기업지주",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": -5736780603,
+    "total_sales": 96453474421,
+    "operation_profit": -4775856801,
+    "gross_profit": 11945575513
+  },
+  {
+    "id": "002420",
+    "company": "세기상사",
+    "sector": "연료 소매업",
+    "net_income": -1210607958,
+    "total_sales": 21817274297,
+    "operation_profit": -782510052,
+    "gross_profit": 2962296371
+  },
+  {
+    "id": "004360",
+    "company": "세방",
+    "sector": "도로 화물 운송업",
+    "net_income": 56960523003,
+    "total_sales": 967569267165,
+    "operation_profit": 29611534748,
+    "gross_profit": 107822047027
+  },
+  {
+    "id": "004490",
+    "company": "세방전지",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": 101624117010,
+    "total_sales": 1606632790778,
+    "operation_profit": 113543908633,
+    "gross_profit": 245667890528
+  },
+  {
+    "id": "001430",
+    "company": "세아베스틸지주",
+    "sector": "1차 철강 제조업",
+    "net_income": 58052809050,
+    "total_sales": 2790319878479,
+    "operation_profit": 89555483902,
+    "gross_profit": 247754983347
+  },
+  {
+    "id": "306200",
+    "company": "세아제강",
+    "sector": "1차 철강 제조업",
+    "net_income": 18541336671,
+    "total_sales": 1125483115899,
+    "operation_profit": 41322538275,
+    "gross_profit": 112402933987
+  },
+  {
+    "id": "019440",
+    "company": "세아특수강",
+    "sector": "1차 철강 제조업",
+    "net_income": 16173260591,
+    "total_sales": 728097883903,
+    "operation_profit": 27337929347,
+    "gross_profit": 63970844147
+  },
+  {
+    "id": "058650",
+    "company": "세아홀딩스",
+    "sector": "1차 철강 제조업",
+    "net_income": 83407755456,
+    "total_sales": 4894322334775,
+    "operation_profit": 134429067499,
+    "gross_profit": 331533183162
+  },
+  {
+    "id": "013000",
+    "company": "세우글로벌",
+    "sector": "기타 전문 도매업",
+    "net_income": 2212693208,
+    "total_sales": 24490896316,
+    "operation_profit": 1925565899,
+    "gross_profit": 3313553477
+  },
+  {
+    "id": "067830",
+    "company": "세이브존I&C",
+    "sector": "종합 소매업",
+    "net_income": 6870753621,
+    "total_sales": 86649119440,
+    "operation_profit": 3405994604,
+    "gross_profit": 46196849934
+  },
+  {
+    "id": "075580",
+    "company": "세진중공업",
+    "sector": "선박 및 보트 건조업",
+    "net_income": 28052705721,
+    "total_sales": 287034820627,
+    "operation_profit": 38708895443,
+    "gross_profit": 56448013123
+  },
+  {
+    "id": "248070",
+    "company": "솔루엠",
+    "sector": "전자 부품 제조업",
+    "net_income": 19073964530,
+    "total_sales": 1272572788598,
+    "operation_profit": 38443374340,
+    "gross_profit": 207126360751
+  },
+  {
+    "id": "004430",
+    "company": "송원산업",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 5073000000,
+    "total_sales": 799777000000,
+    "operation_profit": 24920000000,
+    "gross_profit": 114559000000
+  },
+  {
+    "id": "017550",
+    "company": "수산세보틱스",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 9461623709,
+    "total_sales": 157453702968,
+    "operation_profit": 12791579925,
+    "gross_profit": 40279056205
+  },
+  {
+    "id": "126720",
+    "company": "수산인더스트리",
+    "sector": "건물설비 설치 공사업",
+    "net_income": 27448142548,
+    "total_sales": 246495634661,
+    "operation_profit": 30903969731,
+    "gross_profit": 49942146821
+  },
+  {
+    "id": "204210",
+    "company": "스타에스엠리츠",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": -2842320728,
+    "total_sales": 6937701607,
+    "operation_profit": -1581871698
+  },
+  {
+    "id": "134790",
+    "company": "시디즈",
+    "sector": "가구 제조업",
+    "net_income": -2951551327,
+    "total_sales": 147172749412,
+    "operation_profit": -6064225631,
+    "gross_profit": 39823433465
+  },
+  {
+    "id": "462870",
+    "company": "시프트업",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 132780960689,
+    "total_sales": 230116310973,
+    "operation_profit": 144014233887
+  },
+  {
+    "id": "016590",
+    "company": "신대양제지",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": 22507732855,
+    "total_sales": 481337168756,
+    "operation_profit": 21679066220,
+    "gross_profit": 77452017487
+  },
+  {
+    "id": "029530",
+    "company": "신도리코",
+    "sector": "컴퓨터 및 주변 장치 제조업",
+    "net_income": 12028585817,
+    "total_sales": 230654674721,
+    "operation_profit": 3090775946,
+    "gross_profit": 55608835470
+  },
+  {
+    "id": "005390",
+    "company": "신성통상",
+    "sector": "기타 전문 도매업",
+    "net_income": 26338569711,
+    "total_sales": 1091517313133,
+    "operation_profit": 39943499922,
+    "gross_profit": 484174189574
+  },
+  {
+    "id": "035510",
+    "company": "신세계I&C",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 33744824441,
+    "total_sales": 517101302532,
+    "operation_profit": 36668836907,
+    "gross_profit": 80360368585
+  },
+  {
+    "id": "031430",
+    "company": "신세계인터내셔날",
+    "sector": "섬유, 의복, 신발 및 가죽제품 소매업",
+    "net_income": 2536162259,
+    "total_sales": 923223734111,
+    "operation_profit": 334040188,
+    "gross_profit": 561740789629
+  },
+  {
+    "id": "031440",
+    "company": "신세계푸드",
+    "sector": "음식점업",
+    "net_income": 26358452735,
+    "total_sales": 919452727937,
+    "operation_profit": 11011822425,
+    "gross_profit": 163071174494
+  },
+  {
+    "id": "006880",
+    "company": "신송홀딩스",
+    "sector": "산업용 농ㆍ축산물 및 동ㆍ식물 도매업",
+    "net_income": 1181713454,
+    "total_sales": 124860645844,
+    "operation_profit": 6353400531,
+    "gross_profit": 19204253703
+  },
+  {
+    "id": "005800",
+    "company": "신영와코루",
+    "sector": "봉제의복 제조업",
+    "net_income": 9676525329,
+    "total_sales": 151629572428,
+    "operation_profit": 4627647824,
+    "gross_profit": 85934210007
+  },
+  {
+    "id": "009270",
+    "company": "신원",
+    "sector": "봉제의복 제조업",
+    "net_income": -6078591704,
+    "total_sales": 820859698831,
+    "operation_profit": 8725599484,
+    "gross_profit": 176750644996
+  },
+  {
+    "id": "002700",
+    "company": "신일전자",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 3858160676,
+    "total_sales": 146351093658,
+    "operation_profit": 4685161997,
+    "gross_profit": 35258620796
+  },
+  {
+    "id": "002870",
+    "company": "신풍",
+    "sector": "기타 전문 도매업",
+    "net_income": 2014162333,
+    "total_sales": 18521927317,
+    "operation_profit": -1714097235,
+    "gross_profit": 3218071262
+  },
+  {
+    "id": "019170",
+    "company": "신풍제약",
+    "sector": "의약품 제조업",
+    "net_income": 7938682335,
+    "total_sales": 176639263296,
+    "operation_profit": 10388118831,
+    "gross_profit": 77666509232
+  },
+  {
+    "id": "004080",
+    "company": "신흥",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 3205012950,
+    "total_sales": 72256796773,
+    "operation_profit": 3916560478,
+    "gross_profit": 22479090496
+  },
+  {
+    "id": "102280",
+    "company": "쌍방울",
+    "sector": "봉제의복 제조업",
+    "net_income": -3969896326,
+    "total_sales": 66418276614,
+    "operation_profit": -2513610331,
+    "gross_profit": 20116053778
+  },
+  {
+    "id": "004770",
+    "company": "써니전자",
+    "sector": "전자 부품 제조업",
+    "net_income": 3042609596,
+    "total_sales": 9383270248,
+    "operation_profit": 1664441763,
+    "gross_profit": 3812142475
+  },
+  {
+    "id": "403550",
+    "company": "쏘카",
+    "sector": "운송장비 임대업",
+    "net_income": -3702845734,
+    "total_sales": 341978202568,
+    "operation_profit": 10064164767
+  },
+  {
+    "id": "004920",
+    "company": "씨아이테크",
+    "sector": "영상 및 음향 기기 제조업",
+    "net_income": 446255356,
+    "total_sales": 41407478328,
+    "operation_profit": 393380646,
+    "gross_profit": 17703765414
+  },
+  {
+    "id": "112610",
+    "company": "씨에스윈드",
+    "sector": "구조용 금속제품, 탱크 및 증기발생기 제조업",
+    "net_income": 192298053191,
+    "total_sales": 2148911318101,
+    "operation_profit": 250162608050,
+    "gross_profit": 344429283714
+  },
+  {
+    "id": "480370",
+    "company": "씨케이솔루션",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": -24931309616,
+    "total_sales": 204453359385,
+    "operation_profit": -26417671041,
+    "gross_profit": -4170498637
+  },
+  {
+    "id": "308170",
+    "company": "씨티알모빌리티",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -2536793023,
+    "total_sales": 353426550965,
+    "operation_profit": 4505562085,
+    "gross_profit": 29528610990
+  },
+  {
+    "id": "008700",
+    "company": "아남전자",
+    "sector": "영상 및 음향 기기 제조업",
+    "net_income": 3336491,
+    "total_sales": 120126714,
+    "operation_profit": 3160685,
+    "gross_profit": 16350082
+  },
+  {
+    "id": "090430",
+    "company": "아모레퍼시픽",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 224822071063,
+    "total_sales": 3089439253714,
+    "operation_profit": 283278897957,
+    "gross_profit": 2229398190968
+  },
+  {
+    "id": "002790",
+    "company": "아모레퍼시픽홀딩스",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 274050193731,
+    "total_sales": 3367960966027,
+    "operation_profit": 313240184166,
+    "gross_profit": 2476661882442
+  },
+  {
+    "id": "002030",
+    "company": "아세아",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 64350820000,
+    "total_sales": 1395289819000,
+    "operation_profit": 103292621000,
+    "gross_profit": 265317561000
+  },
+  {
+    "id": "183190",
+    "company": "아세아시멘트",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 33187416000,
+    "total_sales": 748623573000,
+    "operation_profit": 69564203000,
+    "gross_profit": 151336672000
+  },
+  {
+    "id": "002310",
+    "company": "아세아제지",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": 26214334190,
+    "total_sales": 641742562193,
+    "operation_profit": 28026110491,
+    "gross_profit": 111863851791
+  },
+  {
+    "id": "012170",
+    "company": "아센디오",
+    "sector": "영화, 비디오물, 방송 프로그램 제작 및 배급업",
+    "net_income": -9165195847,
+    "total_sales": 4577452150,
+    "operation_profit": -3247408326,
+    "gross_profit": 726976710
+  },
+  {
+    "id": "267850",
+    "company": "아시아나IDT",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 8373261160,
+    "total_sales": 150625094776,
+    "operation_profit": 9267656997,
+    "gross_profit": 16242063747
+  },
+  {
+    "id": "020560",
+    "company": "아시아나항공",
+    "sector": "항공 여객 운송업",
+    "net_income": -12951593698,
+    "total_sales": 5642649833683,
+    "operation_profit": -149174808173,
+    "gross_profit": 375037013495
+  },
+  {
+    "id": "122900",
+    "company": "아이마켓코리아",
+    "sector": "상품 종합 도매업",
+    "net_income": 22844905909,
+    "total_sales": 2247007876663,
+    "operation_profit": 24447179799,
+    "gross_profit": 114946841625
+  },
+  {
+    "id": "010780",
+    "company": "아이에스동서",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 6916332874,
+    "total_sales": 905338302909,
+    "operation_profit": 95171367295,
+    "gross_profit": 227439613133
+  },
+  {
+    "id": "003560",
+    "company": "아이에이치큐",
+    "sector": "영화, 비디오물, 방송 프로그램 제작 및 배급업",
+    "net_income": -5608190962,
+    "total_sales": 20853175049,
+    "operation_profit": -5125662235
+  },
+  {
+    "id": "031820",
+    "company": "아이티센씨티에스",
+    "sector": "컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+    "net_income": 21237544230,
+    "total_sales": 718558918930,
+    "operation_profit": 4155817296,
+    "gross_profit": 81853614134
+  },
+  {
+    "id": "139990",
+    "company": "아주스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": -19911238377,
+    "total_sales": 803150344227,
+    "operation_profit": -5667611675,
+    "gross_profit": 30241690878
+  },
+  {
+    "id": "009320",
+    "company": "아진전자부품",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 4869650757,
+    "total_sales": 116008649897,
+    "operation_profit": 5206977773,
+    "gross_profit": 18725603204
+  },
+  {
+    "id": "001780",
+    "company": "알루코",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 9885696616,
+    "total_sales": 457650821916,
+    "operation_profit": 30125644382,
+    "gross_profit": 72325772947
+  },
+  {
+    "id": "018250",
+    "company": "애경산업",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 20475411210,
+    "total_sales": 491642691259,
+    "operation_profit": 24496011691,
+    "gross_profit": 218258233296
+  },
+  {
+    "id": "161000",
+    "company": "애경케미칼",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 5625462000,
+    "total_sales": 1103927270000,
+    "operation_profit": -4687848000,
+    "gross_profit": 95212892000
+  },
+  {
+    "id": "137310",
+    "company": "에스디바이오센서",
+    "sector": "의료용 기기 제조업",
+    "net_income": 246420865789,
+    "total_sales": 516014874825,
+    "operation_profit": -49109043821,
+    "gross_profit": 252895054065
+  },
+  {
+    "id": "010580",
+    "company": "에스엠벡셀",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 1723912805,
+    "total_sales": 117940075634,
+    "operation_profit": 1920621722,
+    "gross_profit": 15966574355
+  },
+  {
+    "id": "123700",
+    "company": "에스제이엠",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 12010053565,
+    "total_sales": 151889036119,
+    "operation_profit": 11479459667,
+    "gross_profit": 38135668229
+  },
+  {
+    "id": "326030",
+    "company": "에스케이바이오팜",
+    "sector": "자연과학 및 공학 연구개발업",
+    "net_income": 120513922502,
+    "total_sales": 512380998760,
+    "operation_profit": 157660286835,
+    "gross_profit": 484430987948
+  },
+  {
+    "id": "023960",
+    "company": "에쓰씨엔지니어링",
+    "sector": "토목 건설업",
+    "net_income": -6030985286,
+    "total_sales": 127591840696,
+    "operation_profit": -5906605414,
+    "gross_profit": 14278958882
+  },
+  {
+    "id": "298690",
+    "company": "에어부산",
+    "sector": "항공 여객 운송업",
+    "net_income": 9512817786,
+    "total_sales": 597222493941,
+    "operation_profit": 504740058,
+    "gross_profit": 45658432502
+  },
+  {
+    "id": "140910",
+    "company": "에이리츠",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": -647818897,
+    "total_sales": 2236369788,
+    "operation_profit": -275665450,
+    "gross_profit": 1706891739
+  },
+  {
+    "id": "078520",
+    "company": "에이블씨엔씨",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 8166805126,
+    "total_sales": 187439884725,
+    "operation_profit": 11473071636,
+    "gross_profit": 104953327521
+  },
+  {
+    "id": "015260",
+    "company": "에이엔피",
+    "sector": "전자 부품 제조업",
+    "net_income": -7490119683,
+    "total_sales": 93094677829,
+    "operation_profit": -5071206173,
+    "gross_profit": 1765334802
+  },
+  {
+    "id": "007460",
+    "company": "에이프로젠",
+    "sector": "기타 금속 가공제품 제조업",
+    "net_income": -106083104216,
+    "total_sales": 86445471485,
+    "operation_profit": -68660790691,
+    "gross_profit": 26178228932
+  },
+  {
+    "id": "003060",
+    "company": "에이프로젠바이오로직스",
+    "sector": "의약품 제조업",
+    "net_income": -134464698078,
+    "total_sales": 52862334133,
+    "operation_profit": -44364476837,
+    "gross_profit": -19979889916
+  },
+  {
+    "id": "244920",
+    "company": "에이플러스에셋",
+    "sector": "보험 및 연금관련 서비스업",
+    "net_income": 17762098425,
+    "total_sales": 501716967436,
+    "operation_profit": 22514055875
+  },
+  {
+    "id": "278470",
+    "company": "에이피알",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 190884766412,
+    "total_sales": 979710377904,
+    "operation_profit": 235248251640,
+    "gross_profit": 746696138674
+  },
+  {
+    "id": "450080",
+    "company": "에코프로머티",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": 120760561017,
+    "total_sales": 277303216753,
+    "operation_profit": -68714501348,
+    "gross_profit": -42473982631
+  },
+  {
+    "id": "019490",
+    "company": "엑시큐어하이트론",
+    "sector": "영상 및 음향 기기 제조업",
+    "net_income": -26575494557,
+    "total_sales": 4888606362,
+    "operation_profit": -14621351963,
+    "gross_profit": -224189503
+  },
+  {
+    "id": "036570",
+    "company": "엔씨소프트",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 348914195977,
+    "total_sales": 1102706983401,
+    "operation_profit": 12831574629
+  },
+  {
+    "id": "085310",
+    "company": "엔케이",
+    "sector": "구조용 금속제품, 탱크 및 증기발생기 제조업",
+    "net_income": -4894949840,
+    "total_sales": 81059536653,
+    "operation_profit": -5644428473,
+    "gross_profit": 6391488188
+  },
+  {
+    "id": "004250",
+    "company": "엔피씨",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 12461008867,
+    "total_sales": 327837431388,
+    "operation_profit": 20994728111,
+    "gross_profit": 58297557398
+  },
+  {
+    "id": "066970",
+    "company": "엘앤에프",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": -342130067959,
+    "total_sales": 1537153590898,
+    "operation_profit": -239318840259,
+    "gross_profit": -175334193748
+  },
+  {
+    "id": "010120",
+    "company": "엘에스일렉트릭",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 200500593425,
+    "total_sales": 3441421152088,
+    "operation_profit": 296698752684,
+    "gross_profit": 724587517420
+  },
+  {
+    "id": "097520",
+    "company": "엠씨넥스",
+    "sector": "영상 및 음향 기기 제조업",
+    "net_income": 42655562603,
+    "total_sales": 977876873279,
+    "operation_profit": 43796504610,
+    "gross_profit": 91048323247
+  },
+  {
+    "id": "014440",
+    "company": "영보화학",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 10605557661,
+    "total_sales": 86150619079,
+    "operation_profit": 12972878555,
+    "gross_profit": 25600662749
+  },
+  {
+    "id": "003520",
+    "company": "영진약품",
+    "sector": "의약품 제조업",
+    "net_income": 148008892,
+    "total_sales": 187440199319,
+    "operation_profit": 4504207238,
+    "gross_profit": 57946831638
+  },
+  {
+    "id": "000670",
+    "company": "영풍",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 136227282467,
+    "total_sales": 1921290932302,
+    "operation_profit": -159169751935,
+    "gross_profit": -74983767466
+  },
+  {
+    "id": "012280",
+    "company": "영화금속",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 8867277189,
+    "total_sales": 266697868532,
+    "operation_profit": 13063561178,
+    "gross_profit": 21575045248
+  },
+  {
+    "id": "012160",
+    "company": "영흥",
+    "sector": "1차 철강 제조업",
+    "net_income": -42010137735,
+    "total_sales": 337162629235,
+    "operation_profit": -10930449195,
+    "gross_profit": 13136492458
+  },
+  {
+    "id": "007310",
+    "company": "오뚜기",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 99347308254,
+    "total_sales": 2778304615008,
+    "operation_profit": 157936436683,
+    "gross_profit": 455975811250
+  },
+  {
+    "id": "271560",
+    "company": "오리온",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 282788622050,
+    "total_sales": 2407860708184,
+    "operation_profit": 390698510016,
+    "gross_profit": 880892293608
+  },
+  {
+    "id": "005320",
+    "company": "온타이드",
+    "sector": "생활용품 도매업",
+    "net_income": -6352097920,
+    "total_sales": 170902514078,
+    "operation_profit": -1627240066,
+    "gross_profit": 15627128058
+  },
+  {
+    "id": "011690",
+    "company": "와이투솔루션",
+    "sector": "반도체 제조업",
+    "net_income": -5090304175,
+    "total_sales": 116759827533,
+    "operation_profit": -1400845263,
+    "gross_profit": 12770855975
+  },
+  {
+    "id": "006980",
+    "company": "우성",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 9260199379,
+    "total_sales": 449978651809,
+    "operation_profit": 13643932632,
+    "gross_profit": 75379283805
+  },
+  {
+    "id": "017370",
+    "company": "우신시스템",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 9450275332,
+    "total_sales": 297761143383,
+    "operation_profit": 14774806770,
+    "gross_profit": 38356779678
+  },
+  {
+    "id": "105840",
+    "company": "우진",
+    "sector": "측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외",
+    "net_income": 11197457996,
+    "total_sales": 109636681582,
+    "operation_profit": 12978744754,
+    "gross_profit": 34845136951
+  },
+  {
+    "id": "010400",
+    "company": "우진아이엔에스",
+    "sector": "건물설비 설치 공사업",
+    "net_income": 8864269913,
+    "total_sales": 122571294111,
+    "operation_profit": 5983857436,
+    "gross_profit": 10754769532
+  },
+  {
+    "id": "049800",
+    "company": "우진플라임",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": -1686075408,
+    "total_sales": 146911911754,
+    "operation_profit": 353893689,
+    "gross_profit": 43362488533
+  },
+  {
+    "id": "016880",
+    "company": "웅진",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 94984640601,
+    "total_sales": 837694427779,
+    "operation_profit": 54928347449,
+    "gross_profit": 394386221298
+  },
+  {
+    "id": "095720",
+    "company": "웅진씽크빅",
+    "sector": "초등 교육기관",
+    "net_income": -13817843493,
+    "total_sales": 602483114057,
+    "operation_profit": -8070767407,
+    "gross_profit": 287029084244
+  },
+  {
+    "id": "005820",
+    "company": "원림",
+    "sector": "직물 직조 및 직물제품 제조업",
+    "net_income": 3501158282,
+    "total_sales": 62182744930,
+    "operation_profit": 3018130372,
+    "gross_profit": 12915774315
+  },
+  {
+    "id": "010600",
+    "company": "웰바이오텍",
+    "sector": "상품 중개업",
+    "net_income": -4710439105,
+    "total_sales": 61194027809,
+    "operation_profit": -916201371,
+    "gross_profit": 7262737896
+  },
+  {
+    "id": "008600",
+    "company": "윌비스",
+    "sector": "생활용품 도매업",
+    "net_income": -11438387167,
+    "total_sales": 147411210656,
+    "operation_profit": -2608119676,
+    "gross_profit": 22101362911
+  },
+  {
+    "id": "033270",
+    "company": "유나이티드",
+    "sector": "의약품 제조업",
+    "net_income": 27381011073,
+    "total_sales": 216115436888,
+    "operation_profit": 37044927885,
+    "gross_profit": 120138814377
+  },
+  {
+    "id": "014830",
+    "company": "유니드",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 62908398737,
+    "total_sales": 992423432678,
+    "operation_profit": 80328034627,
+    "gross_profit": 189759241139
+  },
+  {
+    "id": "446070",
+    "company": "유니드비티플러스",
+    "sector": "제재 및 목재 가공업",
+    "net_income": 734741920,
+    "total_sales": 124229097663,
+    "operation_profit": -2682479021,
+    "gross_profit": 15236542956
+  },
+  {
+    "id": "000910",
+    "company": "유니온",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 9594490815,
+    "total_sales": 154176931296,
+    "operation_profit": 1966825495,
+    "gross_profit": 25015699868
+  },
+  {
+    "id": "047400",
+    "company": "유니온머티리얼",
+    "sector": "내화, 비내화 요업제품 제조업",
+    "net_income": -2576404270,
+    "total_sales": 78266880900,
+    "operation_profit": 1829692998,
+    "gross_profit": 11587225343
+  },
+  {
+    "id": "011330",
+    "company": "유니켐",
+    "sector": "가죽, 가방 및 유사 제품 제조업",
+    "net_income": 1583569791,
+    "total_sales": 86181653707,
+    "operation_profit": 2141873500,
+    "gross_profit": 13900062864
+  },
+  {
+    "id": "077500",
+    "company": "유니퀘스트",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 17448719145,
+    "total_sales": 518026444064,
+    "operation_profit": 27011704546,
+    "gross_profit": 52303905759
+  },
+  {
+    "id": "002920",
+    "company": "유성기업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 8383816385,
+    "total_sales": 235399257363,
+    "operation_profit": -5611009917,
+    "gross_profit": 8802473659
+  },
+  {
+    "id": "000700",
+    "company": "유수홀딩스",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 17547016441,
+    "total_sales": 315263006560,
+    "operation_profit": 24372485233,
+    "gross_profit": 69472212788
+  },
+  {
+    "id": "072130",
+    "company": "유엔젤",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 3946073686,
+    "total_sales": 46588743377,
+    "operation_profit": 3080853141,
+    "gross_profit": 18309707754
+  },
+  {
+    "id": "000220",
+    "company": "유유제약",
+    "sector": "의약품 제조업",
+    "net_income": 7910656121,
+    "total_sales": 106545337240,
+    "operation_profit": 11148259571,
+    "gross_profit": 42049879384
+  },
+  {
+    "id": "000100",
+    "company": "유한양행",
+    "sector": "의약품 제조업",
+    "net_income": 75179612575,
+    "total_sales": 1640564582720,
+    "operation_profit": 78294506411,
+    "gross_profit": 516772264465
+  },
+  {
+    "id": "008730",
+    "company": "율촌화학",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 5141821038,
+    "total_sales": 369275094471,
+    "operation_profit": 9020037065,
+    "gross_profit": 37768207716
+  },
+  {
+    "id": "008250",
+    "company": "이건산업",
+    "sector": "나무제품 제조업",
+    "net_income": -4312456741,
+    "total_sales": 230105630623,
+    "operation_profit": 2361405705,
+    "gross_profit": 24915346002
+  },
+  {
+    "id": "214320",
+    "company": "이노션",
+    "sector": "광고업",
+    "net_income": 74242050530,
+    "total_sales": 1513961916071,
+    "operation_profit": 117584431970,
+    "gross_profit": 722010692235
+  },
+  {
+    "id": "007660",
+    "company": "이수페타시스",
+    "sector": "전자 부품 제조업",
+    "net_income": 116885031801,
+    "total_sales": 790042100810,
+    "operation_profit": 148184102936,
+    "gross_profit": 199055048306
+  },
+  {
+    "id": "015020",
+    "company": "이스타코",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": -391280663,
+    "total_sales": 12494901759,
+    "operation_profit": 465512467,
+    "gross_profit": 3828581579
+  },
+  {
+    "id": "074610",
+    "company": "이엔플러스",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 9568204725,
+    "total_sales": 16406359777,
+    "operation_profit": -3693507720,
+    "gross_profit": 3675337494
+  },
+  {
+    "id": "102460",
+    "company": "이연제약",
+    "sector": "의약품 제조업",
+    "net_income": -16792359945,
+    "total_sales": 112032173078,
+    "operation_profit": -22099447474,
+    "gross_profit": 29982469621
+  },
+  {
+    "id": "084680",
+    "company": "이월드",
+    "sector": "귀금속 및 장신용품 제조업",
+    "net_income": -8272895169,
+    "total_sales": 63001562397,
+    "operation_profit": -3433407307,
+    "gross_profit": 15014734498
+  },
+  {
+    "id": "014990",
+    "company": "인디에프",
+    "sector": "봉제의복 제조업",
+    "net_income": -3566496647,
+    "total_sales": 74196765525,
+    "operation_profit": -1663808797,
+    "gross_profit": 42755688112
+  },
+  {
+    "id": "101140",
+    "company": "인바이오젠",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 11326032344,
+    "total_sales": 5636143985,
+    "operation_profit": -3379394882,
+    "gross_profit": -228839113
+  },
+  {
+    "id": "006490",
+    "company": "인스코비",
+    "sector": "전기 통신업",
+    "net_income": -30295449463,
+    "total_sales": 79078040714,
+    "operation_profit": 3136534475,
+    "gross_profit": 33359349501
+  },
+  {
+    "id": "023800",
+    "company": "인지컨트롤스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 26773636821,
+    "total_sales": 538964689080,
+    "operation_profit": 34228965430,
+    "gross_profit": 80136498518
+  },
+  {
+    "id": "034590",
+    "company": "인천도시가스",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 9755489612,
+    "total_sales": 711811043620,
+    "operation_profit": 8032071579,
+    "gross_profit": 58216713275
+  },
+  {
+    "id": "249420",
+    "company": "일동제약",
+    "sector": "의약품 제조업",
+    "net_income": 18093680317,
+    "total_sales": 419912871251,
+    "operation_profit": 11551086195,
+    "gross_profit": 162816867742
+  },
+  {
+    "id": "000230",
+    "company": "일동홀딩스",
+    "sector": "의약품 제조업",
+    "net_income": 1832056841,
+    "total_sales": 437063467876,
+    "operation_profit": 7686269718
+  },
+  {
+    "id": "013360",
+    "company": "일성건설",
+    "sector": "토목 건설업",
+    "net_income": 797957838,
+    "total_sales": 340132763588,
+    "operation_profit": 8529394544,
+    "gross_profit": 23583784214
+  },
+  {
+    "id": "003120",
+    "company": "일성아이에스",
+    "sector": "의약품 제조업",
+    "net_income": -2241261410,
+    "total_sales": 49638023763,
+    "operation_profit": -4151098037,
+    "gross_profit": 21550636538
+  },
+  {
+    "id": "003200",
+    "company": "일신방직",
+    "sector": "방적 및 가공사 제조업",
+    "net_income": 21523532147,
+    "total_sales": 382580200296,
+    "operation_profit": 5483422779,
+    "gross_profit": 67214393613
+  },
+  {
+    "id": "007110",
+    "company": "일신석재",
+    "sector": "건축 자재, 철물 및 난방장치 도매업",
+    "net_income": -1007896083,
+    "total_sales": 41289152270,
+    "operation_profit": 76122231,
+    "gross_profit": 7424879610
+  },
+  {
+    "id": "008500",
+    "company": "일정실업",
+    "sector": "편조 원단 제조업",
+    "net_income": 11387248802,
+    "total_sales": 27249802702,
+    "operation_profit": 1293318772,
+    "gross_profit": 4116468866
+  },
+  {
+    "id": "081000",
+    "company": "일진다이아",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 4170060616,
+    "total_sales": 116633084111,
+    "operation_profit": -7814368029,
+    "gross_profit": 20989832054
+  },
+  {
+    "id": "020760",
+    "company": "일진디스플",
+    "sector": "반도체 제조업",
+    "net_income": -6967032940,
+    "total_sales": 54022754182,
+    "operation_profit": -4267994409,
+    "gross_profit": 1459369011
+  },
+  {
+    "id": "103590",
+    "company": "일진전기",
+    "sector": "절연선 및 케이블 제조업",
+    "net_income": 76708187000,
+    "total_sales": 1430402023000,
+    "operation_profit": 106986111000,
+    "gross_profit": 196966223000
+  },
+  {
+    "id": "271940",
+    "company": "일진하이솔루스",
+    "sector": "그 외 기타 운송장비 제조업",
+    "net_income": -3002878804,
+    "total_sales": 57391203413,
+    "operation_profit": -10235425449,
+    "gross_profit": 3102603622
+  },
+  {
+    "id": "226320",
+    "company": "잇츠한불",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 22324890566,
+    "total_sales": 111354103892,
+    "operation_profit": 14342690486,
+    "gross_profit": 73377444047
+  },
+  {
+    "id": "317400",
+    "company": "자이에스앤디",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": 33695187657,
+    "total_sales": 1052627830718,
+    "operation_profit": 15032902860,
+    "gross_profit": 86350966198
+  },
+  {
+    "id": "033240",
+    "company": "자화전자",
+    "sector": "전자 부품 제조업",
+    "net_income": 12946519229,
+    "total_sales": 584939138787,
+    "operation_profit": 15263281506,
+    "gross_profit": 88606608176
+  },
+  {
+    "id": "000950",
+    "company": "전방",
+    "sector": "방적 및 가공사 제조업",
+    "net_income": 30304201051,
+    "total_sales": 31402611598,
+    "operation_profit": -5811708086,
+    "gross_profit": -2720589403
+  },
+  {
+    "id": "079900",
+    "company": "전진건설로봇",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 23933993396,
+    "total_sales": 145251635328,
+    "operation_profit": 23068325153,
+    "gross_profit": 42740718886
+  },
+  {
+    "id": "194370",
+    "company": "제이에스코퍼레이션",
+    "sector": "가죽, 가방 및 유사 제품 제조업",
+    "net_income": 62949090597,
+    "total_sales": 967838711375,
+    "operation_profit": 97567302565,
+    "gross_profit": 174339970622
+  },
+  {
+    "id": "025620",
+    "company": "제이준코스메틱",
+    "sector": "기타 화학제품 제조업",
+    "net_income": -3196567358,
+    "total_sales": 5342326027,
+    "operation_profit": -5450314620,
+    "gross_profit": 1453588264
+  },
+  {
+    "id": "030000",
+    "company": "제일기획",
+    "sector": "광고업",
+    "net_income": 144178504204,
+    "total_sales": 3347174213332,
+    "operation_profit": 246498511432,
+    "gross_profit": 1374665730231
+  },
+  {
+    "id": "271980",
+    "company": "제일약품",
+    "sector": "의약품 제조업",
+    "net_income": 22536768732,
+    "total_sales": 435413322122,
+    "operation_profit": 20161106155,
+    "gross_profit": 160188391399
+  },
+  {
+    "id": "001560",
+    "company": "제일연마",
+    "sector": "기타 비금속 광물제품 제조업",
+    "net_income": 12749091690,
+    "total_sales": 59015326782,
+    "operation_profit": 3336923842,
+    "gross_profit": 13469678190
+  },
+  {
+    "id": "002620",
+    "company": "제일파마홀딩스",
+    "sector": "회사 본부 및 경영 컨설팅 서비스업",
+    "net_income": 21719999336,
+    "total_sales": 503186980822,
+    "operation_profit": 32135781398,
+    "gross_profit": 189586696079
+  },
+  {
+    "id": "089590",
+    "company": "제주항공",
+    "sector": "항공 여객 운송업",
+    "net_income": -102823506869,
+    "total_sales": 1105335368363,
+    "operation_profit": -129471536158,
+    "gross_profit": 5275478201
+  },
+  {
+    "id": "004910",
+    "company": "조광페인트",
+    "sector": "기타 화학제품 제조업",
+    "net_income": -6353287473,
+    "total_sales": 153532293153,
+    "operation_profit": -11961858916,
+    "gross_profit": 21615287019
+  },
+  {
+    "id": "004700",
+    "company": "조광피혁",
+    "sector": "가죽, 가방 및 유사 제품 제조업",
+    "net_income": 8575819262,
+    "total_sales": 77603653929,
+    "operation_profit": 6177427702,
+    "gross_profit": 15648449297
+  },
+  {
+    "id": "001550",
+    "company": "조비",
+    "sector": "비료, 농약 및 살균ㆍ살충제 제조업",
+    "net_income": 3059147927,
+    "total_sales": 85653556017,
+    "operation_profit": 4531909940,
+    "gross_profit": 18199339604
+  },
+  {
+    "id": "120030",
+    "company": "조선선재",
+    "sector": "기타 금속 가공제품 제조업",
+    "net_income": 5917948588,
+    "total_sales": 38904263086,
+    "operation_profit": 5754071579,
+    "gross_profit": 10836874731
+  },
+  {
+    "id": "018470",
+    "company": "조일알미늄",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 6945708914,
+    "total_sales": 368264379211,
+    "operation_profit": 12646816363,
+    "gross_profit": 23703083498
+  },
+  {
+    "id": "002600",
+    "company": "조흥",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 6769132709,
+    "total_sales": 360367969193,
+    "operation_profit": 13950252501,
+    "gross_profit": 35323222256
+  },
+  {
+    "id": "063160",
+    "company": "종근당바이오",
+    "sector": "의약품 제조업",
+    "net_income": -1759147789,
+    "total_sales": 117852474295,
+    "operation_profit": 3496362790,
+    "gross_profit": 23748370429
+  },
+  {
+    "id": "109070",
+    "company": "주성코퍼레이션",
+    "sector": "통신 및 방송장비 제조업",
+    "net_income": 1779600386,
+    "total_sales": 58998152747,
+    "operation_profit": 1877626693,
+    "gross_profit": 6695079004
+  },
+  {
+    "id": "044380",
+    "company": "주연테크",
+    "sector": "컴퓨터 및 주변 장치 제조업",
+    "net_income": -1391524102,
+    "total_sales": 48927603439,
+    "operation_profit": -1385013426,
+    "gross_profit": 4287756276
+  },
+  {
+    "id": "013890",
+    "company": "지누스",
+    "sector": "가구 제조업",
+    "net_income": 16292932663,
+    "total_sales": 721134464712,
+    "operation_profit": 48982653926,
+    "gross_profit": 262887070144
+  },
+  {
+    "id": "013870",
+    "company": "지엠비코리아",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 8293059139,
+    "total_sales": 583810206337,
+    "operation_profit": 15926509193,
+    "gross_profit": 95356202297
+  },
+  {
+    "id": "071320",
+    "company": "지역난방공사",
+    "sector": "증기, 냉ㆍ온수 및 공기 조절 공급업",
+    "net_income": 260938000000,
+    "total_sales": 2958115000000,
+    "operation_profit": 403595000000,
+    "gross_profit": 477113000000
+  },
+  {
+    "id": "088790",
+    "company": "진도",
+    "sector": "기타 전문 도매업",
+    "net_income": 339504022,
+    "total_sales": 26462740640,
+    "operation_profit": -367795544,
+    "gross_profit": 12424258059
+  },
+  {
+    "id": "003780",
+    "company": "진양산업",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 5915977530,
+    "total_sales": 70350746950,
+    "operation_profit": 7350519678,
+    "gross_profit": 14326030382
+  },
+  {
+    "id": "010640",
+    "company": "진양폴리우레탄",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 1355569373,
+    "total_sales": 34697657639,
+    "operation_profit": 1388619604,
+    "gross_profit": 5572314140
+  },
+  {
+    "id": "100250",
+    "company": "진양홀딩스",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 16866348139,
+    "total_sales": 214759204446,
+    "operation_profit": 6507992905,
+    "gross_profit": 27938734342
+  },
+  {
+    "id": "051630",
+    "company": "진양화학",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": -105741035,
+    "total_sales": 13963057969,
+    "operation_profit": -591603024,
+    "gross_profit": 1222612273
+  },
+  {
+    "id": "272450",
+    "company": "진에어",
+    "sector": "항공 여객 운송업",
+    "net_income": 2447594633,
+    "total_sales": 1028255178576,
+    "operation_profit": -6526859140,
+    "gross_profit": 83109520368
+  },
+  {
+    "id": "011000",
+    "company": "진원생명과학",
+    "sector": "의약품 제조업",
+    "net_income": -35714839080,
+    "total_sales": 20392899761,
+    "operation_profit": -30913069192,
+    "gross_profit": -8733524979
+  },
+  {
+    "id": "009310",
+    "company": "참엔지니어링",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": -10525159363,
+    "total_sales": 46665973697,
+    "operation_profit": -6075325460,
+    "gross_profit": 12089578022
+  },
+  {
+    "id": "000650",
+    "company": "천일고속",
+    "sector": "육상 여객 운송업",
+    "net_income": -2768219988,
+    "total_sales": 33072999835,
+    "operation_profit": -5113751970,
+    "gross_profit": 731525148
+  },
+  {
+    "id": "033250",
+    "company": "체시스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 3884451947,
+    "total_sales": 69439441119,
+    "operation_profit": 5378792459,
+    "gross_profit": 9166004209
+  },
+  {
+    "id": "035720",
+    "company": "카카오",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 565012086679,
+    "total_sales": 5978623796716,
+    "operation_profit": 499374557926
+  },
+  {
+    "id": "006380",
+    "company": "카프로",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -28532562202,
+    "total_sales": 20074425491,
+    "operation_profit": 15947855257,
+    "gross_profit": 14393834269
+  },
+  {
+    "id": "001620",
+    "company": "케이비아이동국실업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 4582407645,
+    "total_sales": 592751608576,
+    "operation_profit": 4333525924,
+    "gross_profit": 67118325369
+  },
+  {
+    "id": "029460",
+    "company": "케이씨",
+    "sector": "측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외",
+    "net_income": 46513711306,
+    "total_sales": 621241338378,
+    "operation_profit": 42903710930,
+    "gross_profit": 108192917201
+  },
+  {
+    "id": "002380",
+    "company": "케이씨씨",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 1263659266611,
+    "total_sales": 4927401754396,
+    "operation_profit": 361088088215,
+    "gross_profit": 1248755000682
+  },
+  {
+    "id": "344820",
+    "company": "케이씨씨글라스",
+    "sector": "유리 및 유리제품 제조업",
+    "net_income": -62170802232,
+    "total_sales": 1442788424333,
+    "operation_profit": -55290112489,
+    "gross_profit": 104652701522
+  },
+  {
+    "id": "281820",
+    "company": "케이씨텍",
+    "sector": "측정, 시험, 항해, 제어 및 기타 정밀 기기 제조업; 광학 기기 제외",
+    "net_income": 33834431236,
+    "total_sales": 271156277530,
+    "operation_profit": 38261482711,
+    "gross_profit": 99957678005
+  },
+  {
+    "id": "009070",
+    "company": "케이씨티시",
+    "sector": "도로 화물 운송업",
+    "net_income": 22054013575,
+    "total_sales": 742113668089,
+    "operation_profit": 34431201950,
+    "gross_profit": 87318350347
+  },
+  {
+    "id": "381970",
+    "company": "케이카",
+    "sector": "자동차 판매업",
+    "net_income": 43621038292,
+    "total_sales": 1879058147651,
+    "operation_profit": 63584621247,
+    "gross_profit": 196864023855
+  },
+  {
+    "id": "145270",
+    "company": "케이탑리츠",
+    "sector": "부동산 임대 및 공급업",
+    "net_income": 980662619,
+    "total_sales": 6274918289,
+    "operation_profit": 2864841903
+  },
+  {
+    "id": "033780",
+    "company": "케이티앤지",
+    "sector": "담배 제조업",
+    "net_income": 820155000000,
+    "total_sales": 4865907000000,
+    "operation_profit": 1100731000000,
+    "gross_profit": 2405097000000
+  },
+  {
+    "id": "007810",
+    "company": "코리아써키트",
+    "sector": "전자 부품 제조업",
+    "net_income": 15530044558,
+    "total_sales": 1061587419120,
+    "operation_profit": 17754037140,
+    "gross_profit": 60797177117
+  },
+  {
+    "id": "192820",
+    "company": "코스맥스",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 43131655013,
+    "total_sales": 1797751428134,
+    "operation_profit": 154885939804,
+    "gross_profit": 315118013065
+  },
+  {
+    "id": "005070",
+    "company": "코스모신소재",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 1601919873,
+    "total_sales": 339259983390,
+    "operation_profit": 1707557834,
+    "gross_profit": 20475656280
+  },
+  {
+    "id": "071950",
+    "company": "코아스",
+    "sector": "가구 제조업",
+    "net_income": -30563114232,
+    "total_sales": 43239952735,
+    "operation_profit": -4688322107,
+    "gross_profit": 8743291092
+  },
+  {
+    "id": "138490",
+    "company": "코오롱ENP",
+    "sector": "합성고무 및 플라스틱 물질 제조업",
+    "net_income": 36761963734,
+    "total_sales": 365807143531,
+    "operation_profit": 38255729531,
+    "gross_profit": 76989078747
+  },
+  {
+    "id": "003070",
+    "company": "코오롱글로벌",
+    "sector": "토목 건설업",
+    "net_income": -44260692037,
+    "total_sales": 1985817935117,
+    "operation_profit": 56385883313,
+    "gross_profit": 196961084551
+  },
+  {
+    "id": "450140",
+    "company": "코오롱모빌리티그룹",
+    "sector": "자동차 판매업",
+    "net_income": 9894327648,
+    "total_sales": 1754405380072,
+    "operation_profit": 27197372883,
+    "gross_profit": 149053187385
+  },
+  {
+    "id": "120110",
+    "company": "코오롱인더",
+    "sector": "화학섬유 제조업",
+    "net_income": 59085045548,
+    "total_sales": 3670702915850,
+    "operation_profit": 99134907317,
+    "gross_profit": 928800686087
+  },
+  {
+    "id": "021240",
+    "company": "코웨이",
+    "sector": "그 외 기타 개인 서비스업",
+    "net_income": 470297854429,
+    "total_sales": 3688194573412,
+    "operation_profit": 697023295709,
+    "gross_profit": 2376615476049
+  },
+  {
+    "id": "036420",
+    "company": "콘텐트리중앙",
+    "sector": "영화, 비디오물, 방송 프로그램 제작 및 배급업",
+    "net_income": -82792152555,
+    "total_sales": 819381710122,
+    "operation_profit": 931463019,
+    "gross_profit": 197245016174
+  },
+  {
+    "id": "284740",
+    "company": "쿠쿠홈시스",
+    "sector": "개인 및 가정용품 임대업",
+    "net_income": 90265612596,
+    "total_sales": 856790856078,
+    "operation_profit": 125051549483,
+    "gross_profit": 544378475085
+  },
+  {
+    "id": "264900",
+    "company": "크라운제과",
+    "sector": "곡물 가공품, 전분 및 전분제품 제조업",
+    "net_income": 10488969498,
+    "total_sales": 332380943387,
+    "operation_profit": 13551044606,
+    "gross_profit": 103797903475
+  },
+  {
+    "id": "259960",
+    "company": "크래프톤",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 756444262215,
+    "total_sales": 2406856145823,
+    "operation_profit": 1051947873702
+  },
+  {
+    "id": "020120",
+    "company": "키다리스튜디오",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": 5707446817,
+    "total_sales": 152763399721,
+    "operation_profit": 5950519152,
+    "gross_profit": 70966262040
+  },
+  {
+    "id": "014580",
+    "company": "태경비케이",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": 26466541935,
+    "total_sales": 283714133371,
+    "operation_profit": 31369411252,
+    "gross_profit": 68476841413
+  },
+  {
+    "id": "015890",
+    "company": "태경산업",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 30468670423,
+    "total_sales": 577381371242,
+    "operation_profit": 42414804786,
+    "gross_profit": 125015186859
+  },
+  {
+    "id": "006890",
+    "company": "태경케미컬",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 5596212436,
+    "total_sales": 46832023001,
+    "operation_profit": 2769118945,
+    "gross_profit": 13026936927
+  },
+  {
+    "id": "003240",
+    "company": "태광산업",
+    "sector": "화학섬유 제조업",
+    "net_income": 47664402861,
+    "total_sales": 1417331339880,
+    "operation_profit": -58091781844,
+    "gross_profit": 100760985916
+  },
+  {
+    "id": "011280",
+    "company": "태림포장",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": -1880001000,
+    "total_sales": 570932517000,
+    "operation_profit": 802255000,
+    "gross_profit": 67858379000
+  },
+  {
+    "id": "004100",
+    "company": "태양금속공업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -4589916411,
+    "total_sales": 465126462974,
+    "operation_profit": 11299364332,
+    "gross_profit": 66888634399
+  },
+  {
+    "id": "001420",
+    "company": "태원물산",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 373369252,
+    "total_sales": 11699517276,
+    "operation_profit": -654214279,
+    "gross_profit": 587326979
+  },
+  {
+    "id": "055490",
+    "company": "테이팩스",
+    "sector": "플라스틱 제품 제조업",
+    "net_income": 135688692,
+    "total_sales": 104285107790,
+    "operation_profit": 1264280445,
+    "gross_profit": 13607664463
+  },
+  {
+    "id": "078000",
+    "company": "텔코웨어",
+    "sector": "자료 처리, 호스팅, 포털 및 기타 인터넷 정보 매개 서비스업",
+    "net_income": -757909549,
+    "total_sales": 19625581824,
+    "operation_profit": -3236775820,
+    "gross_profit": 6972902162
+  },
+  {
+    "id": "214420",
+    "company": "토니모리",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 8027901088,
+    "total_sales": 167712510929,
+    "operation_profit": 13570629594,
+    "gross_profit": 72768842648
+  },
+  {
+    "id": "084870",
+    "company": "티비에이치글로벌",
+    "sector": "봉제의복 제조업",
+    "net_income": -1516918503,
+    "total_sales": 123804340322,
+    "operation_profit": -547051739,
+    "gross_profit": 68907515359
+  },
+  {
+    "id": "019180",
+    "company": "티에이치엔",
+    "sector": "기타 전기장비 제조업",
+    "net_income": 44896403825,
+    "total_sales": 699850615364,
+    "operation_profit": 45794368277,
+    "gross_profit": 96152465688
+  },
+  {
+    "id": "091810",
+    "company": "티웨이항공",
+    "sector": "항공 여객 운송업",
+    "net_income": -247553271712,
+    "total_sales": 1274243984030,
+    "operation_profit": -209298054698,
+    "gross_profit": -72428846905
+  },
+  {
+    "id": "004870",
+    "company": "티웨이홀딩스",
+    "sector": "시멘트, 석회, 플라스터 및 그 제품 제조업",
+    "net_income": -58155998657,
+    "total_sales": 4474713500,
+    "operation_profit": -3115134398,
+    "gross_profit": -1116823868
+  },
+  {
+    "id": "069260",
+    "company": "티케이지휴켐스",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 60328957087,
+    "total_sales": 851210526081,
+    "operation_profit": 61006650781,
+    "gross_profit": 98018738458
+  },
+  {
+    "id": "034230",
+    "company": "파라다이스",
+    "sector": "유원지 및 기타 오락관련 서비스업",
+    "net_income": 108886428613,
+    "total_sales": 856013336695,
+    "operation_profit": 139638925204,
+    "gross_profit": 217456232134
+  },
+  {
+    "id": "005690",
+    "company": "파미셀",
+    "sector": "기초 의약 물질 및 생물학적 제제 제조업",
+    "net_income": 24616885686,
+    "total_sales": 79439804567,
+    "operation_profit": 24686210906,
+    "gross_profit": 36299747949
+  },
+  {
+    "id": "036580",
+    "company": "팜스코",
+    "sector": "낙농제품 및 식용 빙과류 제조업",
+    "net_income": 47863751649,
+    "total_sales": 1149787525254,
+    "operation_profit": 64487592929,
+    "gross_profit": 179551260873
+  },
+  {
+    "id": "004720",
+    "company": "팜젠사이언스",
+    "sector": "의약품 제조업",
+    "net_income": 872494671,
+    "total_sales": 130256810279,
+    "operation_profit": 6739348861,
+    "gross_profit": 84603691187
+  },
+  {
+    "id": "028670",
+    "company": "팬오션",
+    "sector": "해상 운송업",
+    "net_income": 252740000000,
+    "total_sales": 3956550000000,
+    "operation_profit": 361522000000,
+    "gross_profit": 446585000000
+  },
+  {
+    "id": "010820",
+    "company": "퍼스텍",
+    "sector": "무기 및 총포탄 제조업",
+    "net_income": 6684054921,
+    "total_sales": 186391121516,
+    "operation_profit": 5789641328,
+    "gross_profit": 14654374179
+  },
+  {
+    "id": "001020",
+    "company": "페이퍼코리아",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": -12244821985,
+    "total_sales": 197838415477,
+    "operation_profit": -5090323372,
+    "gross_profit": 19120260942
+  },
+  {
+    "id": "090080",
+    "company": "평화산업",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 6583897109,
+    "total_sales": 475288425935,
+    "operation_profit": 6896038134,
+    "gross_profit": 30444442916
+  },
+  {
+    "id": "010770",
+    "company": "평화홀딩스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 25220995351,
+    "total_sales": 667687606249,
+    "operation_profit": 24800865322,
+    "gross_profit": 71781714311
+  },
+  {
+    "id": "022100",
+    "company": "포스코DX",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 53611947619,
+    "total_sales": 814360820251,
+    "operation_profit": 61605602011,
+    "gross_profit": 106854927819
+  },
+  {
+    "id": "058430",
+    "company": "포스코스틸리온",
+    "sector": "1차 철강 제조업",
+    "net_income": 18024605827,
+    "total_sales": 843911510703,
+    "operation_profit": 22341570231,
+    "gross_profit": 54197482960
+  },
+  {
+    "id": "047050",
+    "company": "포스코인터내셔널",
+    "sector": "상품 중개업",
+    "net_income": 504003783000,
+    "total_sales": 24546075197000,
+    "operation_profit": 899723903000,
+    "gross_profit": 1460498419000
+  },
+  {
+    "id": "003670",
+    "company": "포스코퓨처엠",
+    "sector": "일차전지 및 축전지 제조업",
+    "net_income": 59831379630,
+    "total_sales": 2381129104817,
+    "operation_profit": 84593421295,
+    "gross_profit": 248707489216
+  },
+  {
+    "id": "017810",
+    "company": "풀무원",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 10496855947,
+    "total_sales": 2520999300706,
+    "operation_profit": 68916209298,
+    "gross_profit": 622311634516
+  },
+  {
+    "id": "103140",
+    "company": "풍산",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 138336756656,
+    "total_sales": 3624069239481,
+    "operation_profit": 205890441056,
+    "gross_profit": 392389833274
+  },
+  {
+    "id": "950210",
+    "company": "프레스티지바이오파마",
+    "sector": "자연과학 및 공학 연구개발업",
+    "net_income": 9462557,
+    "total_sales": 1512000,
+    "operation_profit": -37832689
+  },
+  {
+    "id": "009810",
+    "company": "플레이그램",
+    "sector": "기타 전문 도매업",
+    "net_income": 798153466,
+    "total_sales": 184989509544,
+    "operation_profit": -1690135213,
+    "gross_profit": 38506224968
+  },
+  {
+    "id": "293480",
+    "company": "하나제약",
+    "sector": "의약품 제조업",
+    "net_income": 5509634811,
+    "total_sales": 179133211028,
+    "operation_profit": 19985571024,
+    "gross_profit": 109586615325
+  },
+  {
+    "id": "039130",
+    "company": "하나투어",
+    "sector": "여행사 및 기타 여행 보조 서비스업",
+    "net_income": 34673686366,
+    "total_sales": 411675041317,
+    "operation_profit": 30213056025
+  },
+  {
+    "id": "352820",
+    "company": "하이브",
+    "sector": "오디오물 출판 및 원판 녹음업",
+    "net_income": 17815288000,
+    "total_sales": 1933443313000,
+    "operation_profit": 45343635000,
+    "gross_profit": 704077284000
+  },
+  {
+    "id": "071090",
+    "company": "하이스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": -2637897716,
+    "total_sales": 183416493601,
+    "operation_profit": -1156980114,
+    "gross_profit": 16558568152
+  },
+  {
+    "id": "000080",
+    "company": "하이트진로",
+    "sector": "알코올 음료 제조업",
+    "net_income": 104837027579,
+    "total_sales": 1928863738284,
+    "operation_profit": 181578705829,
+    "gross_profit": 874574866863
+  },
+  {
+    "id": "036460",
+    "company": "한국가스공사",
+    "sector": "연료용 가스 제조 및 배관공급업",
+    "net_income": 539085000000,
+    "total_sales": 26734978000000,
+    "operation_profit": 1627560000000,
+    "gross_profit": 1935548000000
+  },
+  {
+    "id": "005430",
+    "company": "한국공항",
+    "sector": "기타 운송관련 서비스업",
+    "net_income": 32496438623,
+    "total_sales": 484136295901,
+    "operation_profit": 40464459549,
+    "gross_profit": 65841316286
+  },
+  {
+    "id": "010040",
+    "company": "한국내화",
+    "sector": "내화, 비내화 요업제품 제조업",
+    "net_income": -18746153420,
+    "total_sales": 313916828943,
+    "operation_profit": -59180484,
+    "gross_profit": 23947710716
+  },
+  {
+    "id": "025540",
+    "company": "한국단자공업",
+    "sector": "전동기, 발전기 및 전기 변환ㆍ공급ㆍ제어 장치 제조업",
+    "net_income": 83216090000,
+    "total_sales": 1105894728000,
+    "operation_profit": 106109939000,
+    "gross_profit": 189299204000
+  },
+  {
+    "id": "010100",
+    "company": "한국무브넥스",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 18598927816,
+    "total_sales": 1277374757915,
+    "operation_profit": 30463251715,
+    "gross_profit": 118570357198
+  },
+  {
+    "id": "004090",
+    "company": "한국석유공업",
+    "sector": "기타 비금속 광물제품 제조업",
+    "net_income": 4724475850,
+    "total_sales": 523776292555,
+    "operation_profit": 8651869031,
+    "gross_profit": 47021872130
+  },
+  {
+    "id": "002200",
+    "company": "한국수출포장공업",
+    "sector": "골판지, 종이 상자 및 종이 용기 제조업",
+    "net_income": 834518780,
+    "total_sales": 222002711697,
+    "operation_profit": -1411374323,
+    "gross_profit": 20912553642
+  },
+  {
+    "id": "015760",
+    "company": "한국전력공사",
+    "sector": "전기업",
+    "net_income": 7328083000000,
+    "total_sales": 73746506000000,
+    "operation_profit": 11541391000000,
+    "gross_profit": 13836914000000
+  },
+  {
+    "id": "027970",
+    "company": "한국제지",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": 5608862461,
+    "total_sales": 572671683347,
+    "operation_profit": 6381450127,
+    "gross_profit": 74074179881
+  },
+  {
+    "id": "025890",
+    "company": "한국주강",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 24692562,
+    "total_sales": 30873631970,
+    "operation_profit": 101605486,
+    "gross_profit": 1612840566
+  },
+  {
+    "id": "000970",
+    "company": "한국주철관공업",
+    "sector": "1차 철강 제조업",
+    "net_income": 12675995845,
+    "total_sales": 302889776983,
+    "operation_profit": 11167191822,
+    "gross_profit": 52604406618
+  },
+  {
+    "id": "017960",
+    "company": "한국카본",
+    "sector": "구조용 금속제품, 탱크 및 증기발생기 제조업",
+    "net_income": 66875981580,
+    "total_sales": 676967217261,
+    "operation_profit": 92613446770,
+    "gross_profit": 150929535440
+  },
+  {
+    "id": "161890",
+    "company": "한국콜마",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 107361259500,
+    "total_sales": 2066949471518,
+    "operation_profit": 191747456996,
+    "gross_profit": 596124623450
+  },
+  {
+    "id": "161390",
+    "company": "한국타이어앤테크놀로지",
+    "sector": "고무제품 제조업",
+    "net_income": 880536630610,
+    "total_sales": 15746053728723,
+    "operation_profit": 1294235866809,
+    "gross_profit": 3358483101140
+  },
+  {
+    "id": "007280",
+    "company": "한국특강",
+    "sector": "1차 철강 제조업",
+    "net_income": 4451760323,
+    "total_sales": 588779068695,
+    "operation_profit": 12464051763,
+    "gross_profit": 30514600682
+  },
+  {
+    "id": "047810",
+    "company": "한국항공우주",
+    "sector": "항공기, 우주선 및 부품 제조업",
+    "net_income": 125212006990,
+    "total_sales": 2229709239311,
+    "operation_profit": 192220543409,
+    "gross_profit": 399148996925
+  },
+  {
+    "id": "123690",
+    "company": "한국화장품",
+    "sector": "생활용품 도매업",
+    "net_income": 2775121817,
+    "total_sales": 66442701109,
+    "operation_profit": 2163098055,
+    "gross_profit": 32685558752
+  },
+  {
+    "id": "003350",
+    "company": "한국화장품제조",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 23258389178,
+    "total_sales": 146608548933,
+    "operation_profit": 28678734014,
+    "gross_profit": 40332986452
+  },
+  {
+    "id": "011500",
+    "company": "한농화성",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 4124652467,
+    "total_sales": 166569249787,
+    "operation_profit": 2414156787,
+    "gross_profit": 12276579134
+  },
+  {
+    "id": "053690",
+    "company": "한미글로벌",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 18796584189,
+    "total_sales": 336241403066,
+    "operation_profit": 23994737073,
+    "gross_profit": 106878113980
+  },
+  {
+    "id": "042700",
+    "company": "한미반도체",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 185149394384,
+    "total_sales": 493670454672,
+    "operation_profit": 223762328162,
+    "gross_profit": 285469635260
+  },
+  {
+    "id": "128940",
+    "company": "한미약품",
+    "sector": "의약품 제조업",
+    "net_income": 133081796036,
+    "total_sales": 1114570609987,
+    "operation_profit": 174527024767,
+    "gross_profit": 623929871003
+  },
+  {
+    "id": "009240",
+    "company": "한샘",
+    "sector": "생활용품 도매업",
+    "net_income": 41693764413,
+    "total_sales": 1344273363064,
+    "operation_profit": 15539529096,
+    "gross_profit": 326196191756
+  },
+  {
+    "id": "020000",
+    "company": "한섬",
+    "sector": "봉제의복 제조업",
+    "net_income": 22630384000,
+    "total_sales": 1028045454000,
+    "operation_profit": 24993044000,
+    "gross_profit": 586290572000
+  },
+  {
+    "id": "003680",
+    "company": "한성기업",
+    "sector": "수산물 가공 및 저장 처리업",
+    "net_income": -79028439,
+    "total_sales": 236132605316,
+    "operation_profit": 6113171553,
+    "gross_profit": 39927381403
+  },
+  {
+    "id": "105630",
+    "company": "한세실업",
+    "sector": "봉제의복 제조업",
+    "net_income": 50936353484,
+    "total_sales": 1485698499927,
+    "operation_profit": 69591215066,
+    "gross_profit": 200607219646
+  },
+  {
+    "id": "069640",
+    "company": "한세엠케이",
+    "sector": "섬유, 의복, 신발 및 가죽제품 소매업",
+    "net_income": -29733465428,
+    "total_sales": 173334201353,
+    "operation_profit": -20181798354,
+    "gross_profit": 92468959859
+  },
+  {
+    "id": "016450",
+    "company": "한세예스24홀딩스",
+    "sector": "봉제의복 제조업",
+    "net_income": -7684587660,
+    "total_sales": 2536506916179,
+    "operation_profit": 45136262941,
+    "gross_profit": 462104145250
+  },
+  {
+    "id": "009180",
+    "company": "한솔로지스틱스",
+    "sector": "기타 운송관련 서비스업",
+    "net_income": 15227189975,
+    "total_sales": 521675287764,
+    "operation_profit": 18212903899,
+    "gross_profit": 46854721105
+  },
+  {
+    "id": "213500",
+    "company": "한솔제지",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": 6103488273,
+    "total_sales": 1695465513920,
+    "operation_profit": 42223424691,
+    "gross_profit": 295568071776
+  },
+  {
+    "id": "014680",
+    "company": "한솔케미칼",
+    "sector": "기초 화학물질 제조업",
+    "net_income": 130640613194,
+    "total_sales": 661531185731,
+    "operation_profit": 139357527346,
+    "gross_profit": 201592153458
+  },
+  {
+    "id": "004710",
+    "company": "한솔테크닉스",
+    "sector": "전자 부품 제조업",
+    "net_income": 37631181064,
+    "total_sales": 962955501860,
+    "operation_profit": 49758370106,
+    "gross_profit": 152902303332
+  },
+  {
+    "id": "025750",
+    "company": "한솔홈데코",
+    "sector": "제재 및 목재 가공업",
+    "net_income": 1006274954,
+    "total_sales": 214918116966,
+    "operation_profit": 2224940345,
+    "gross_profit": 31174946132
+  },
+  {
+    "id": "011700",
+    "company": "한신기계공업",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 2305518046,
+    "total_sales": 36212976842,
+    "operation_profit": 391663488,
+    "gross_profit": 6953948382
+  },
+  {
+    "id": "009420",
+    "company": "한올바이오파마",
+    "sector": "의약품 제조업",
+    "net_income": 690215920,
+    "total_sales": 117635529656,
+    "operation_profit": 1100232169,
+    "gross_profit": 62195245900
+  },
+  {
+    "id": "014130",
+    "company": "한익스프레스",
+    "sector": "도로 화물 운송업",
+    "net_income": -10607047429,
+    "total_sales": 478767037320,
+    "operation_profit": -395425050,
+    "gross_profit": 11705288839
+  },
+  {
+    "id": "002220",
+    "company": "한일철강",
+    "sector": "1차 철강 제조업",
+    "net_income": 788355072,
+    "total_sales": 150709171959,
+    "operation_profit": 3153098434,
+    "gross_profit": 12799410366
+  },
+  {
+    "id": "051600",
+    "company": "한전KPS",
+    "sector": "전기 및 통신 공사업",
+    "net_income": 104812469048,
+    "total_sales": 1135678443332,
+    "operation_profit": 120850411354,
+    "gross_profit": 188049521587
+  },
+  {
+    "id": "052690",
+    "company": "한전기술",
+    "sector": "건축 기술, 엔지니어링 및 관련 기술 서비스업",
+    "net_income": 77493102888,
+    "total_sales": 313265625258,
+    "operation_profit": 9017293692,
+    "gross_profit": 85936515046
+  },
+  {
+    "id": "002320",
+    "company": "한진",
+    "sector": "도로 화물 운송업",
+    "net_income": 9490288687,
+    "total_sales": 2269218054380,
+    "operation_profit": 95137344508,
+    "gross_profit": 187715641439
+  },
+  {
+    "id": "005110",
+    "company": "한창",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 65687322332,
+    "total_sales": 4787478708,
+    "operation_profit": -6516848982,
+    "gross_profit": 3327615147
+  },
+  {
+    "id": "009460",
+    "company": "한창제지",
+    "sector": "펄프, 종이 및 판지 제조업",
+    "net_income": -7862313428,
+    "total_sales": 201711426918,
+    "operation_profit": -3856011900,
+    "gross_profit": 14803993017
+  },
+  {
+    "id": "372910",
+    "company": "한컴라이프케어",
+    "sector": "의료용 기기 제조업",
+    "net_income": -431121808,
+    "total_sales": 57309031169,
+    "operation_profit": 2390938856,
+    "gross_profit": 17293873562
+  },
+  {
+    "id": "000880",
+    "company": "한화",
+    "sector": "기타 화학제품 제조업",
+    "net_income": 1760220000000,
+    "total_sales": 53671444000000,
+    "operation_profit": 3751610000000,
+    "gross_profit": 7747668000000
+  },
+  {
+    "id": "452260",
+    "company": "한화갤러리아",
+    "sector": "종합 소매업",
+    "net_income": -21695028319,
+    "total_sales": 381749235386,
+    "operation_profit": 319662631,
+    "gross_profit": 254956311476
+  },
+  {
+    "id": "489790",
+    "company": "한화비전",
+    "sector": "통신 및 방송장비 제조업",
+    "net_income": -20242054923,
+    "total_sales": 1331710104349,
+    "operation_profit": 131722128693,
+    "gross_profit": 718238228408
+  },
+  {
+    "id": "009830",
+    "company": "한화솔루션",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -204112000000,
+    "total_sales": 9576057000000,
+    "operation_profit": 124963000000,
+    "gross_profit": 1398852000000
+  },
+  {
+    "id": "272210",
+    "company": "한화시스템",
+    "sector": "전자 부품 제조업",
+    "net_income": 239775672481,
+    "total_sales": 2266027838821,
+    "operation_profit": 114136818616,
+    "gross_profit": 291494995180
+  },
+  {
+    "id": "012450",
+    "company": "한화에어로스페이스",
+    "sector": "항공기, 우주선 및 부품 제조업",
+    "net_income": 1208024593000,
+    "total_sales": 18281666062000,
+    "operation_profit": 2281693091000,
+    "gross_profit": 3790326329000
+  },
+  {
+    "id": "195870",
+    "company": "해성디에스",
+    "sector": "전자 부품 제조업",
+    "net_income": 14215534879,
+    "total_sales": 473449433363,
+    "operation_profit": 24695432597,
+    "gross_profit": 62450868364
+  },
+  {
+    "id": "101530",
+    "company": "해태제과식품",
+    "sector": "동물용 사료 및 조제식품 제조업",
+    "net_income": 17096024273,
+    "total_sales": 483088253143,
+    "operation_profit": 32064251700,
+    "gross_profit": 166559032369
+  },
+  {
+    "id": "143210",
+    "company": "핸즈코퍼레이션",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": -33546727135,
+    "total_sales": 599607632777,
+    "operation_profit": -28278822062,
+    "gross_profit": 30441072242
+  },
+  {
+    "id": "000720",
+    "company": "현대건설",
+    "sector": "토목 건설업",
+    "net_income": 393152000000,
+    "total_sales": 23002768000000,
+    "operation_profit": 534236000000,
+    "gross_profit": 1371884000000
+  },
+  {
+    "id": "453340",
+    "company": "현대그린푸드",
+    "sector": "종합 소매업",
+    "net_income": 87357113000,
+    "total_sales": 1739793772000,
+    "operation_profit": 107627394000,
+    "gross_profit": 332473241000
+  },
+  {
+    "id": "064350",
+    "company": "현대로템",
+    "sector": "철도장비 제조업",
+    "net_income": 545066276000,
+    "total_sales": 4213410182000,
+    "operation_profit": 738183382000,
+    "gross_profit": 1024583054000
+  },
+  {
+    "id": "079430",
+    "company": "현대리바트",
+    "sector": "가구 제조업",
+    "net_income": 10176904455,
+    "total_sales": 1188286158252,
+    "operation_profit": 18328717845,
+    "gross_profit": 219410177508
+  },
+  {
+    "id": "004560",
+    "company": "현대비앤지스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": 9170036839,
+    "total_sales": 569072898292,
+    "operation_profit": 20073561374,
+    "gross_profit": 56148807688
+  },
+  {
+    "id": "004310",
+    "company": "현대약품",
+    "sector": "의약품 제조업",
+    "net_income": 2248052740,
+    "total_sales": 143066724802,
+    "operation_profit": 4118242046,
+    "gross_profit": 59866867736
+  },
+  {
+    "id": "017800",
+    "company": "현대엘리베이터",
+    "sector": "일반 목적용 기계 제조업",
+    "net_income": 236733653918,
+    "total_sales": 1832718487861,
+    "operation_profit": 154931690905,
+    "gross_profit": 449786584259
+  },
+  {
+    "id": "307950",
+    "company": "현대오토에버",
+    "sector": "소프트웨어 개발 및 공급업",
+    "net_income": 132422047000,
+    "total_sales": 2929320474000,
+    "operation_profit": 178835975000,
+    "gross_profit": 308685924000
+  },
+  {
+    "id": "011210",
+    "company": "현대위아",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 107833000000,
+    "total_sales": 6392224000000,
+    "operation_profit": 156727000000,
+    "gross_profit": 400665000000
+  },
+  {
+    "id": "004020",
+    "company": "현대제철",
+    "sector": "1차 철강 제조업",
+    "net_income": 821516221,
+    "total_sales": 17243409035858,
+    "operation_profit": 175979926850,
+    "gross_profit": 1128963635607
+  },
+  {
+    "id": "126560",
+    "company": "현대퓨처넷",
+    "sector": "전기 통신업",
+    "net_income": 10982696000,
+    "total_sales": 198990993000,
+    "operation_profit": 11871066000,
+    "gross_profit": 53171915000
+  },
+  {
+    "id": "057050",
+    "company": "현대홈쇼핑",
+    "sector": "무점포 소매업",
+    "net_income": 87100442000,
+    "total_sales": 2757613680000,
+    "operation_profit": 103029812000,
+    "gross_profit": 1296854258000
+  },
+  {
+    "id": "093240",
+    "company": "형지엘리트",
+    "sector": "봉제의복 제조업",
+    "net_income": -1828509245,
+    "total_sales": 109161646847,
+    "operation_profit": 246964858,
+    "gross_profit": 21652132532
+  },
+  {
+    "id": "003010",
+    "company": "혜인",
+    "sector": "기계장비 및 관련 물품 도매업",
+    "net_income": 6780792217,
+    "total_sales": 189116061318,
+    "operation_profit": 7365063997,
+    "gross_profit": 27894728597
+  },
+  {
+    "id": "378850",
+    "company": "화승알앤에이",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 12079686774,
+    "total_sales": 529535200465,
+    "operation_profit": 23425455054,
+    "gross_profit": 97399767109
+  },
+  {
+    "id": "241590",
+    "company": "화승엔터프라이즈",
+    "sector": "신발 및 신발 부분품 제조업",
+    "net_income": -13992361227,
+    "total_sales": 1166183139348,
+    "operation_profit": 22875704609,
+    "gross_profit": 132036736548
+  },
+  {
+    "id": "006060",
+    "company": "화승인더스트리",
+    "sector": "상품 종합 도매업",
+    "net_income": -2875150185,
+    "total_sales": 1334035635765,
+    "operation_profit": 52267808460,
+    "gross_profit": 198149960249
+  },
+  {
+    "id": "013520",
+    "company": "화승코퍼레이션",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 51252663638,
+    "total_sales": 357234726798,
+    "operation_profit": 79503085744,
+    "gross_profit": 261786030528
+  },
+  {
+    "id": "010690",
+    "company": "화신",
+    "sector": "자동차 신품 부품 제조업",
+    "net_income": 47320319306,
+    "total_sales": 1450127867587,
+    "operation_profit": 68524054233,
+    "gross_profit": 148641574805
+  },
+  {
+    "id": "133820",
+    "company": "화인베스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": -4366901038,
+    "total_sales": 132786583993,
+    "operation_profit": -3837105229,
+    "gross_profit": 1279428734
+  },
+  {
+    "id": "000850",
+    "company": "화천기공",
+    "sector": "특수 목적용 기계 제조업",
+    "net_income": 10529250480,
+    "total_sales": 170583965558,
+    "operation_profit": 5899256311,
+    "gross_profit": 30957070181
+  },
+  {
+    "id": "016580",
+    "company": "환인제약",
+    "sector": "의약품 제조업",
+    "net_income": 11583485107,
+    "total_sales": 190069931573,
+    "operation_profit": 11535668273,
+    "gross_profit": 63568325452
+  },
+  {
+    "id": "032560",
+    "company": "황금에스티",
+    "sector": "1차 비철금속 제조업",
+    "net_income": 16507241753,
+    "total_sales": 231210855745,
+    "operation_profit": 13251182158,
+    "gross_profit": 34044302601
+  },
+  {
+    "id": "094280",
+    "company": "효성 ITX",
+    "sector": "기타 사업 지원 서비스업",
+    "net_income": 9661846784,
+    "total_sales": 373329843636,
+    "operation_profit": 12402672392,
+    "gross_profit": 35946063341
+  },
+  {
+    "id": "093370",
+    "company": "후성",
+    "sector": "기초 화학물질 제조업",
+    "net_income": -5590866119,
+    "total_sales": 352310810370,
+    "operation_profit": 20500071177,
+    "gross_profit": 68909452009
+  },
+  {
+    "id": "005870",
+    "company": "휴니드테크놀러지스",
+    "sector": "통신 및 방송장비 제조업",
+    "net_income": -7162039048,
+    "total_sales": 104446418236,
+    "operation_profit": -6607194008,
+    "gross_profit": 12774023834
+  },
+  {
+    "id": "079980",
+    "company": "휴비스",
+    "sector": "화학섬유 제조업",
+    "net_income": 9057933455,
+    "total_sales": 674807529927,
+    "operation_profit": 9834335661,
+    "gross_profit": 61885505425
+  },
+  {
+    "id": "005010",
+    "company": "휴스틸",
+    "sector": "1차 철강 제조업",
+    "net_income": 31526305782,
+    "total_sales": 471603547569,
+    "operation_profit": 8271056751,
+    "gross_profit": 39831623077
+  },
+  {
+    "id": "003280",
+    "company": "흥아해운",
+    "sector": "해상 운송업",
+    "net_income": 9738023028,
+    "total_sales": 135773875584,
+    "operation_profit": 11738147858,
+    "gross_profit": 23853546816
+  },
+  {
+    "id": "900140",
+    "company": "엘브이엠씨",
+    "sector": "자동차 판매업",
+    "net_income": 7572800,
+    "total_sales": 202613251,
+    "operation_profit": 16809346,
+    "gross_profit": 44194941
+  }
+]

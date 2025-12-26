@@ -15,6 +15,7 @@ import {
 import { Field, FieldGroup, FieldLabel, FieldSet } from '@/components/ui/field'
 import { Input } from '@/components/ui/input'
 import { Quarter, Year } from '@/lib/types'
+import { updateQuarterIncomeStatement } from './_actions/income-statement'
 
 interface Props {
   year: Year
@@ -32,7 +33,7 @@ const isValidFile = (data: FormDataEntryValue | null): data is File =>
   data instanceof File && data.size > 0
 
 export const Upload: React.FC<Props> = ({ year, quarter }) => {
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
 
     const formData = new FormData(e.currentTarget)
@@ -44,6 +45,9 @@ export const Upload: React.FC<Props> = ({ year, quarter }) => {
       toast.error('모든 파일을 업로드해주세요.')
       return
     }
+
+    const result = await updateQuarterIncomeStatement('2025', '3Q', files as File[])
+    console.log(result)
   }
 
   return (

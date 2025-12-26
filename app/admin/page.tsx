@@ -1,5 +1,5 @@
 import { Root } from './Root'
-import data from './_data/data.json'
+import data from './_data/2025/3Q/data.json'
 
 export default function Admin() {
   return (
