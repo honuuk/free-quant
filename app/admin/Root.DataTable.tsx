@@ -91,14 +91,7 @@ export function DataTable() {
   }
 
   return (
-    <div className="w-full flex flex-col justify-start gap-6">
-      <div className="flex items-center justify-between px-4 lg:px-6">
-        <Button className="cursor-pointer bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground active:bg-primary/90 active:text-primary-foreground min-w-8 duration-200 ease-linear">
-          <IconCirclePlusFilled />
-          <span>손익계산서 업로드</span>
-        </Button>
-        <QuarterPicker year="2025" quarter="4Q" />
-      </div>
+    <>
       <div className="relative flex flex-col gap-4 overflow-auto px-4 lg:px-6">
         <div className="overflow-hidden rounded-lg border">
           <Table>
@@ -147,6 +140,6 @@ export function DataTable() {
         onOpenChange={setIsModalOpen}
         incomeStatement={selectedIncomeStatement}
       />
-    </div>
+    </>
   )
 }
